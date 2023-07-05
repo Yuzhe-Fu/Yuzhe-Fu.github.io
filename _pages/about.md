@@ -30,11 +30,25 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 
 # 🎖 Honors and Awards
 - *2021* Excellent Graduate Award, Southern University of Science and Technology
+- *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
 - *2020* China National Scholarship, Ministry of Education of the PRC (Top 8 in SUSTech)
 - *2020* Shenzhen Longsys Electronics Company Award (Top 2% in School of Microelectronics)
 - *2019* The First Prize of Outstanding Students in SUSTech (Top 5% in SUSTech)
 - *2018* The First Class Scholarship, Southern University of Science and Technology (Top 5% in SUSTech)
 - *2017* The Third Class Freshman Scholarship, Southern University of Science and Technology
+
+# 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I</div><img src='images/tcas1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253)
+
+Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.  
+
+**2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
+
+</div>
+</div>
 
 <!-- 
 # 🔥 News

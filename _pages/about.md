@@ -38,8 +38,8 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 - *2017* The Third Class Freshman Scholarship, Southern University of Science and Technology
 
 # 📝 Publications 
-- Working on--SoftAct. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in August)
-- Working on--AMB-FPS. **Yuzhe Fu**, Changchun Zhou, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in August)
+- Working on: *SoftAct*. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in August)
+- Working on: *AMB-FPS*. **Yuzhe Fu**, Changchun Zhou, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in August)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

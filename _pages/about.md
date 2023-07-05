@@ -38,11 +38,34 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 - *2017* The Third Class Freshman Scholarship, Southern University of Science and Technology
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Wroking</div><img src='images/Fig.1 MobileViT.emf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SoftAct: High-Precision Softmax Processing Hardware Unit for Transformer Network with Integrated Nonlinear Activation Function Support
+
+**Yuzhe Fu**, Changchun Zhou, Tianling Huang, Siyuan Qiu, Yifan He, Hailong Jiao.
+
+**2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in August)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling
+
+Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao.
+
+**2023**, *IEEE/ACM International Conference On Computer Aided Design* (under review)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding]
+Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding
 
 Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **Yuzhe Fu**, Yifan He, Hailong Jiao.
 

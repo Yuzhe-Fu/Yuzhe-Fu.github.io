@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yuzhe Fu"
-description              : "Master student of Peking university. Focusing on algorithm-hardware co-design and AI chip."
-repository               : "Yuzhe-Fu/yuzhefu.github.io"
+description              : "Master student of PKU. Focusing on algorithm-hardware co-design and AI chip design."
+repository               : "Yuzhe-Fu/Yuzhe-Fu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

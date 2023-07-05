@@ -38,17 +38,8 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 - *2017* The Third Class Freshman Scholarship, Southern University of Science and Technology
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Wroking</div><img src='images/Fig.1 MobileViT.emf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-SoftAct: High-Precision Softmax Processing Hardware Unit for Transformer Network with Integrated Nonlinear Activation Function Support
-
-**Yuzhe Fu**, Changchun Zhou, Tianling Huang, Siyuan Qiu, Yifan He, Hailong Jiao.
-
-**2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in August)
-
-</div>
-</div>
+- Working on--SoftAct. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in August)
+- Working on--AMB-FPS. **Yuzhe Fu**, Changchun Zhou, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in August)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

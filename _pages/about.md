@@ -80,7 +80,7 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 - [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), Fengwei An, **Yuzhe Fu**, Pingcheng Dong, Zhouyu Chen, Zhuoao Yu, **2020**, *CN Patent, CN112070821A, WO2022021912A1*
 
 # 🚀 Skills
-- Proficient in digital integrated circuit (IC) front-end development and logic synthesis, FPGA development and board-level verification, and neural network model compression. 
+- Proficient in digital integrated circuit (IC) front-end development and logic synthesis, FPGA development, and neural network model compression. 
 - Familiar with Cadence (Genus and NCSim), Vivado, Verilog HDL, PyTorch, Intel Distiller (Model Compression)
 - Knowledgeable in Python, JAVA, MATLAB, Shell, Makefile
 

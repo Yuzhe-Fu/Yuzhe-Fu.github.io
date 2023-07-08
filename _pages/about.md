@@ -85,8 +85,8 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 - Knowledgeable in Python, JAVA, MATLAB, Shell, Makefile
 
 # ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
-- I’m a easy-going and spirited individual with a passion for life. My enthusiasm not only drives my own life but also positively influences those around me.
-- Interests and Hobbies: Fitness, Jogging, Photography, Traveling. (Here is a short [📸 video](https://www.bilibili.com/video/BV19q4y1H716/?vd_source=5c9e9ee79e4910700f06815b0fd41bf3) about my graduation trip.)
+- I’m a easy-going and spirited individual with a passion for life. My enthusiasm not only drives my own life but also positively influences those around me. At the same time, I also like to participate in various volunteer activities, and my volunteer time has reached 100h+.
+- Interests and Hobbies: Fitness, Jogging, Swimming, Photography, Traveling. (Here is a short [📸 video](https://www.bilibili.com/video/BV19q4y1H716/?vd_source=5c9e9ee79e4910700f06815b0fd41bf3) about my graduation trip.)
 
 <!-- 
 # 🔥 News

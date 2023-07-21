@@ -37,6 +37,9 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 - *2018* The First Class Scholarship, Southern University of Science and Technology (Top 5% in SUSTech)
 - *2017* The Third Class Freshman Scholarship, Southern University of Science and Technology
 
+# 🔥 News
+- *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
+
 # 📝 Publications 
 - Working on: *SoftAct*. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in August)
 - Working on: *AMB-FPS*. **Yuzhe Fu**, Changchun Zhou, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in August)
@@ -48,10 +51,11 @@ An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Fil
 
 Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE/ACM International Conference On Computer Aided Design* (under review)
+**2023**, *IEEE/ACM International Conference On Computer Aided Design* (Accepted)
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

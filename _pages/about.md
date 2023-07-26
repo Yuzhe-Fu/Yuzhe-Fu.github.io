@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student in the School of Electronic and Computer Engineering of [Peking University](https://english.pku.edu.cn/), [VLSI Lab](http://www.pku-vlsi.com/) under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree in Microelectronic Science and Engineering from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). My research realm focuses on algorithm-hardware co-design, AI chip design, and neural network compression. You can find more information through my [CV](../images/CV.pdf). I am currently applying for a PhD position, and if you are interested in me, please feel free to contact me at any time.  
+I am currently a Master student in the School of Electronic and Computer Engineering of [Peking University](https://english.pku.edu.cn/), [VLSI Lab](http://www.pku-vlsi.com/) under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree in Microelectronic Science and Engineering from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). My research realm focuses on **algorithm-hardware co-design, AI chip design, and neural network compression**. You can find more information through my [CV](../images/CV.pdf). I am currently applying for a PhD position, and if you are interested in me, please feel free to contact me at any time.  
 E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -41,8 +41,8 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
 # 📝 Publications 
-- Working on: *SoftAct*. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in August)
-- Working on: *AMB-FPS*. **Yuzhe Fu**, Changchun Zhou, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in August)
+- Working on: *SoftAct*. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in August)
+- Working on: *AMB-FPS*. **Yuzhe Fu**, Changchun Zhou, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in August)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,7 +51,7 @@ An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Fil
 
 Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE/ACM International Conference On Computer Aided Design* (Accepted)
+**2023**, *IEEE/ACM International Conference On Computer Aided Design*
 
 </div>
 </div>
@@ -84,9 +84,9 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 - [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), Fengwei An, **Yuzhe Fu**, Pingcheng Dong, Zhouyu Chen, Zhuoao Yu, **2020**, *CN Patent, CN112070821A, WO2022021912A1*
 
 # 🚀 Skills
-- Proficient in digital integrated circuit (IC) front-end development and logic synthesis, FPGA development, and neural network model compression. 
-- Familiar with Cadence (Genus and NCSim), Vivado, Verilog HDL, PyTorch, Intel Distiller (Model Compression)
-- Knowledgeable in Python, JAVA, MATLAB, Shell, Makefile
+- Proficient in digital integrated circuit (IC) front-end development,  neural network model compression and FPGA development. 
+- Familiar with Verilog HDL, PyTorch, Intel Distiller (Model Compression), Cadence (Genus and NCSim), Vivado.
+- Knowledgeable in Python, JAVA, MATLAB, Shell, Makefile.
 
 # ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
 - I am a easy-going and spirited individual with a passion for life. My enthusiasm not only drives my own life but also positively influences those around me. At the same time, I enjoy participating in various volunteer activities, and my volunteer time has exceeded 100 hours.

@@ -38,6 +38,7 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 - *2017* The Third Class Freshman Scholarship, Southern University of Science and Technology
 
 # 🔥 News
+- *2023.08*: &nbsp;🎉🎉 Our paper "Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding" has been accepted by IOTJ!
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
 # 📝 Publications 
@@ -51,7 +52,7 @@ An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Fil
 
 Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE/ACM International Conference On Computer Aided Design*
+**2023**, *IEEE/ACM International Conference On Computer Aided Design* (accepted)
 
 </div>
 </div>
@@ -64,7 +65,7 @@ Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understa
 
 Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **Yuzhe Fu**, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE Internet of Things Journal* (minor revision)
+**2023**, *IEEE Internet of Things Journal* (accepted)
 
 </div>
 </div>

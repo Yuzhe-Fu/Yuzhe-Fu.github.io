@@ -52,7 +52,7 @@ An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Fil
 
 Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE/ACM International Conference On Computer Aided Design* (accepted)
+**2023**, *IEEE/ACM International Conference On Computer Aided Design* (Accepted)
 
 </div>
 </div>
@@ -65,7 +65,7 @@ Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understa
 
 Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **Yuzhe Fu**, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE Internet of Things Journal* (accepted)
+**2023**, *IEEE Internet of Things Journal* (Accepted)
 
 </div>
 </div>

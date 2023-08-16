@@ -42,8 +42,8 @@ E-mail: yuzhefu113@gmail.com \| WeChat: UcheFu6666
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
 # 📝 Publications 
-- Working on: *SoftAct*. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in August)
-- Working on: *AMB-FPS*. **Yuzhe Fu**, Changchun Zhou, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in August)
+- Working on: *SoftAct*. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in September)
+- Working on: *AMB-FPS*. **Yuzhe Fu**#, Changchun Zhou#, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in September)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,7 +82,7 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 </div>
 </div>
 
-- [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), Fengwei An, **Yuzhe Fu**, Pingcheng Dong, Zhouyu Chen, Zhuoao Yu, **2020**, *CN Patent, CN112070821A, WO2022021912A1*
+- [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent, CN112070821A / WO2022021912A1*
 
 # 🚀 Skills
 - Proficient in digital integrated circuit (IC) front-end development,  neural network model compression and FPGA development. 

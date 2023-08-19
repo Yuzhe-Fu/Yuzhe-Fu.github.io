@@ -61,11 +61,11 @@ Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding
+[Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/document/10224248)
 
 Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **Yuzhe Fu**, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE Internet of Things Journal* (Accepted)
+**2023**, *IEEE Internet of Things Journal*
 
 </div>
 </div>

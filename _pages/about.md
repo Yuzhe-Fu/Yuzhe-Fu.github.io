@@ -42,8 +42,8 @@ E-mail: yuzhefu113@gmail.com \| WeChat: UcheFu6666
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
 # 📝 Publications 
-- Working on: *SoftAct*. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in September)
-- Working on: *AMB-FPS*. **Yuzhe Fu**#, Changchun Zhou#, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in September)
+- Working on: SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (plan to submit in September)
+- Working on: An Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration Framework. **Yuzhe Fu**#, Changchun Zhou#, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (plan to submit in September)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,16 +82,21 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 </div>
 </div>
 
+# 📃 Patent
 - [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent, CN112070821A / WO2022021912A1*
 
+# 🍀 Tape Out
+- An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator is being designed in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm and is taped out in July 2023.
+- A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding was fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm in August 2020.
+
 # 🚀 Skills
-- Proficient in digital integrated circuit (IC) front-end development,  neural network model compression and FPGA development. 
+- Proficient in digital integrated circuit (IC) front-end development, neural network model compression and FPGA development. 
 - Familiar with Verilog HDL, PyTorch, Intel Distiller (Model Compression), Cadence (Genus and NCSim), Vivado.
 - Knowledgeable in Python, JAVA, MATLAB, Shell, Makefile.
 
 # ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
-- I am a easy-going and spirited individual with a passion for life. My enthusiasm not only drives my own life but also positively influences those around me. At the same time, I enjoy participating in various volunteer activities, and my volunteer time has exceeded 100 hours.
-- Interests and Hobbies: fitness, jogging, swimming, photography, traveling. (Here is a short [📸 video](https://www.bilibili.com/video/BV19q4y1H716/?vd_source=5c9e9ee79e4910700f06815b0fd41bf3) about my graduation trip.)
+- I am a easy-going and spirited individual with a passion for life. My enthusiasm not only drives my own life but also positively influences those around me.
+- Interests and Hobbies: fitness, jogging, swimming, photography, traveling. (Here is a short [📸 video](https://www.bilibili.com/video/BV19q4y1H716/?vd_source=5c9e9ee79e4910700f06815b0fd41bf3) about my graduation trip in 2021.)
 
 <!-- 
 # 🔥 News

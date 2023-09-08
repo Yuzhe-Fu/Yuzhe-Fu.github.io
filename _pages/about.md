@@ -42,8 +42,19 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
 # 📝 Publications 
-- Working on: SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support. **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (Under review)
-- Working on: An Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration Framework. Changchun Zhou#, **Yuzhe Fu**#, Eryi Han, Yifan He, Hailong Jiao. **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (Plan to submit in September, # means equal contribution.)
+- Working on: An Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration Framework. Changchun Zhou#, **Yuzhe Fu**# *et al*., **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (Plan to submit in September, # means equal contribution).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I</div><img src='images/SoftAct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support]
+
+**Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
+
+**2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (Under review)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +67,6 @@ Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao
 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

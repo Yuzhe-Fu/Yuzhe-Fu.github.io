@@ -47,7 +47,7 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I</div><img src='images/SoftAct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support]
+SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support
 
 **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
 
@@ -93,7 +93,7 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 </div>
 
 # 📃 Patent
-- [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent, CN112070821A / WO2022021912A1*
+- Fengwei An, **Yuzhe Fu** *et al*., [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent*, CN112070821A / WO2022021912A1
 
 # 🍀 Tape Out
 - An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator is being designed in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm and is taped out in July 2023.

@@ -31,11 +31,9 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 # 🎖 Honors and Awards
 - *2021* Excellent Graduate Award, Southern University of Science and Technology
 - *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
-- *2020* **China National Scholarship**, Ministry of Education of the PRC (**Top 8** in SUSTech)
+- *2020* **National Scholarship**, Ministry of Education of the PRC (The highest scholarship for Chinese undergraduates)
 - *2020* Shenzhen Longsys Electronics Company Award (**Top 2%** in School of Microelectronics)
-- *2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
-- *2018* The First Class Scholarship, Southern University of Science and Technology (**Top 5%** in SUSTech)
-- *2017* The Third Class Freshman Scholarship, Southern University of Science and Technology
+- *2018, 2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉🎉 Our paper "Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding" has been accepted by IEEE IOTJ!

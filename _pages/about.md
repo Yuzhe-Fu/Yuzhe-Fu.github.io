@@ -75,7 +75,7 @@ Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **Yuzhe Fu**, Yifan He, Hailong
 
 **2023**, *IEEE Internet of Things Journal*
 
-[[pdf](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/blob/c1a7d415ca9dd0f5c92b9c77e596a611c4650a96/papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)]
+[[pdf](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/blob/c1a7d415ca9dd0f5c92b9c77e596a611c4650a96/papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3D_Understanding.pdf)]
 </div>
 </div>
 

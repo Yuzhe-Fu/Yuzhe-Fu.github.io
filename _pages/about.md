@@ -40,8 +40,6 @@ E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
 # 📝 Publications 
-- Working on: An Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration Framework. Changchun Zhou#, **Yuzhe Fu**# *et al*., **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (# means equal contribution, under review).
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I</div><img src='images/SoftAct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,6 +48,18 @@ SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear F
 **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
 
 **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (Under review)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II</div><img src='images/TCASII.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis
+
+Changchun Zhou#, **Yuzhe Fu**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Jiao.
+
+**2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (# Means equal contribution, under review)
 
 </div>
 </div>

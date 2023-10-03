@@ -49,6 +49,13 @@ SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear F
 
 **2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (Under review)
 
+<details>
+<summary>展开查看</summary>
+<pre><code>
+System.out.println("Hello to see U!");
+</code></pre>
+</details>
+
 </div>
 </div>
 

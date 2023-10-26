@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Master student in the School of Electronic and Computer Engineering of [Peking University](https://english.pku.edu.cn/), [VLSI Lab](http://www.pku-vlsi.com/) under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree in Microelectronic Science and Engineering from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **algorithm-hardware co-design and AI chip design**. You can find more information through my [CV](../images/CV_for_YuzheFu.pdf). I am currently applying for a PhD position, and if you are interested in me, please feel free to contact me at any time.  
-E-mail: fuyz@stu.pku.edu.cn \| WeChat: UcheFu6666
+E-mail: fuyz@stu.pku.edu.cn
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->

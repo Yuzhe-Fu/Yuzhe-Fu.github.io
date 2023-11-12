@@ -26,7 +26,7 @@ E-mail: fuyz@stu.pku.edu.cn
 # 📖 Educations
 - *2021.09 - Present*, Master in School of Electronic and Computer Engineering, Peking University. **GPA: 3.59/4.00**
 - *2019.08 - 2020.01*, Global Access Program, University of California, Berkeley. **GPA: 3.94/4.00**
-- *2017.08 - 2021.06*, BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. **GPA: 3.88/4.00, 1st in comprehensive ranking**
+- *2017.09 - 2021.06*, BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. **GPA: 3.88/4.00, 1st in comprehensive ranking**
 
 # 🎖 Honors and Awards
 - *2021* Excellent Graduate Award, Southern University of Science and Technology

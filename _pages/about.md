@@ -41,14 +41,14 @@ E-mail: fuyz@stu.pku.edu.cn
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I</div><img src='images/SoftAct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/SoftAct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support
 
 **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE Transactions on Circuits and Systems I: Regular Papers* (Under review)
+**2023**, *IEEE Transactions on Circuits and Systems for Video Technology* (Under review)
 
 <details>
 <summary>Abstract</summary>

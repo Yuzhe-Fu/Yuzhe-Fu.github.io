@@ -80,7 +80,7 @@ An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Fil
 
 Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE/ACM International Conference On Computer Aided Design* (Accepted)
+**2023**, *IEEE/ACM International Conference On Computer Aided Design*
 [[pdf](../papers/ICCAD.pdf)][[YouTube](https://youtu.be/3Yw3-jFeRaE)]
 <details>
 <summary>Abstract</summary>

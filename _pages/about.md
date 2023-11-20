@@ -25,7 +25,7 @@ E-mail: fuyz@stu.pku.edu.cn
  
 # 📖 Educations
 - *2021.09 - Present*, Master in School of Electronic and Computer Engineering, Peking University. **GPA: 3.59/4.00**
-- *2019.08 - 2020.01*, Global Access Program, University of California, Berkeley. **GPA: 3.94/4.00**
+- *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. **GPA: 3.94/4.00**
 - *2017.09 - 2021.06*, BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. **GPA: 3.88/4.00, 1st in comprehensive ranking**
 
 # 🎖 Honors and Awards
@@ -33,7 +33,8 @@ E-mail: fuyz@stu.pku.edu.cn
 - *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
 - *2020* **National Scholarship**, Ministry of Education of the PRC (The highest scholarship for Chinese undergraduates)
 - *2020* Shenzhen Longsys Electronics Company Award (**Top 2%** in School of Microelectronics)
-- *2018, 2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
+- *2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
+- *2018* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 Yuzhe Fu presents [the work](https://youtu.be/3Yw3-jFeRaE) on 3D Point Cloud Neural Network Accelerator at IEEE/ACM ICCAD 2023!

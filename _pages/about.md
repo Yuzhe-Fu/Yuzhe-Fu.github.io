@@ -64,7 +64,7 @@ SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear F
 
 Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis
 
-Changchun Zhou#, **Yuzhe Fu**#, Yanzhe Ma, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
+Changchun Zhou#, **Yuzhe Fu**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Jiao.
 
 **2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (# Authors with equal contribution, under review)
 <details>

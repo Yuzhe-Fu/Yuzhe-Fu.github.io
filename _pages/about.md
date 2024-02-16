@@ -50,7 +50,7 @@ SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear F
 
 **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE Transactions on Circuits and Systems for Video Technology* (Under review)
+**2024**, *IEEE Transactions on Circuits and Systems for Video Technology* (Under review)
 
 <details>
 <summary>Abstract</summary>
@@ -67,7 +67,7 @@ SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear F
 
 Changchun Zhou#, **Yuzhe Fu**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Jiao.
 
-**2023**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (# Authors with equal contribution)
+**2024**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (# with equal contribution)
 [[pdf](../papers/TCAS-II.pdf)]
 <details>
 <summary>Abstract</summary>

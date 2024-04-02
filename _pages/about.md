@@ -37,6 +37,7 @@ E-mail: fuyz@stu.pku.edu.cn
 - *2018* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 Our paper "SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
 - *2024.02*: &nbsp;🎉🎉 Our paper "Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis" has been accepted by IEEE TCAS-II!
 - *2023.10*: &nbsp;🎉🎉 Yuzhe Fu presents [the work](https://youtu.be/3Yw3-jFeRaE) on 3D Point Cloud Neural Network Accelerator at IEEE/ACM ICCAD 2023!
 - *2023.08*: &nbsp;🎉🎉 Our paper "Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding" has been accepted by IEEE IOTJ!
@@ -50,7 +51,7 @@ SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear F
 
 **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
 
-**2024**, *IEEE Transactions on Circuits and Systems for Video Technology* (Under review)
+**2024**, *IEEE Transactions on Circuits and Systems for Video Technology* (Accepted)
 
 <details>
 <summary>Abstract</summary>

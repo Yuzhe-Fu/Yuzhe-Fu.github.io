@@ -51,7 +51,7 @@ E-mail: fuyz@stu.pku.edu.cn
 
 **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
 
-**2024**, *IEEE Transactions on Circuits and Systems for Video Technology* (Accepted)
+**2024**, *IEEE Transactions on Circuits and Systems for Video Technology*
 [[pdf](../papers/TCSVT.pdf)]
 <details>
 <summary>Abstract</summary>

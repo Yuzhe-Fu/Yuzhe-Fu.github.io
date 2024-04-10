@@ -47,12 +47,12 @@ E-mail: fuyz@stu.pku.edu.cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/SoftAct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support
+[SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support](https://ieeexplore.ieee.org/document/10495359)
 
 **Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
 
 **2024**, *IEEE Transactions on Circuits and Systems for Video Technology* (Accepted)
-
+[[pdf](../papers/TCSVT.pdf)]
 <details>
 <summary>Abstract</summary>
   Transformer-based deep learning networks are revolutionizing our society. The convolution and attention co-designed (CAC) Transformers have demonstrated superior performance compared to the conventional Transformer-based networks. However, CAC Transformer networks contain various nonlinear functions, such as softmax and complex activation functions, which require high precision hardware design yet typically with significant cost in area and power consumption. To address these challenges, SoftAct, a compact and high-precision algorithm-hardware co-designed architecture, is proposed to implement both softmax and nonlinear activation functions in CAC Transformer accelerators. An improved softmax algorithm with penalties is proposed to maintain precision in hardware. A stage-wise full zero detection method is developed to skip redundant computation in softmax. A compact and reconfigurable architecture with a symmetrically designed linear fitting module is proposed to achieve nonlinear functions. The SoftAct architecture is designed in an industrial 28-nm CMOS technology with the MobileViT-xxs network as the benchmark. Compared with the state of the art, SoftAct improves up to 5.87% network accuracy, 153.2× area efficiency, and 1435× overall efficiency.

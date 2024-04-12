@@ -15,8 +15,8 @@ main:
   - title: "Patent"
     url: "/#-patent"
 
-  - title: "Tape Out"
-    url: "/#-tape-out"
+  # - title: "Tape Out"
+  #   url: "/#-tape-out"
     
   - title: "Skills"
     url: "/#-skills"

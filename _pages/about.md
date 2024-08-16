@@ -17,26 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student in the School of Electronic and Computer Engineering of [Peking University](https://english.pku.edu.cn/), [VLSI Lab](http://www.pku-vlsi.com/) under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree in Microelectronic Science and Engineering from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **algorithm-hardware co-design**.  
-E-mail: fuyz@stu.pku.edu.cn
+I am currently a PhD student in the Department of Computer Science of [Duke University](https://duke.edu/), and a member of [Computational Evolutionary Intelligence (CEI) Lab](https://cei.pratt.duke.edu/) under the supervision of [Pro. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen). I received my M.S. degree from [Peking University](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **algorithm-hardware co-design**.  
+E-mail: yuzhe.fu@duke.edu
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
  
 # 📖 Educations
-- *2021.09 - Present*, Master in School of Electronic and Computer Engineering, Peking University.
+- *2024.08 - Present*, PhD student in the department of Computer Science, Duke University.
+- *2021.09 - 2024.07*, Master of Science, Peking University.
+- *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology.
 - *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. 
-- *2017.09 - 2021.06*, BEng in School of Microelectronics, Southern University of Science and Technology.
 
 # 🎖 Honors and Awards
 - *2021* Excellent Graduate Award, Southern University of Science and Technology
 - *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
 - *2020* **National Scholarship**, Ministry of Education of the PRC (The highest scholarship for Chinese undergraduates)
-- *2020* Shenzhen Longsys Electronics Company Award (**Top 2%** in School of Microelectronics)
-- *2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
-- *2018* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
+- *2018, 2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
 
 # 🔥 News
+- *2024.08*: Starting my PhD journey — wish me luck🍀!
 - *2024.04*: &nbsp;🎉🎉 Our paper "SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
 - *2024.02*: &nbsp;🎉🎉 Our paper "Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis" has been accepted by IEEE TCAS-II!
 - *2023.10*: &nbsp;🎉🎉 Yuzhe Fu presents [the work](https://youtu.be/3Yw3-jFeRaE) on 3D Point Cloud Neural Network Accelerator at IEEE/ACM ICCAD 2023!
@@ -129,12 +129,12 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 - I am a easy-going and spirited individual with a passion for life. My enthusiasm not only drives my own life but also positively influences those around me.
 - Interests and Hobbies: fitness, jogging, swimming, photography, traveling. (Here is a short [📸 video](https://www.bilibili.com/video/BV19q4y1H716/?vd_source=5c9e9ee79e4910700f06815b0fd41bf3) about my graduation trip in 2021.)
 
-<!-- 
-
 # 🍀 Tape Out
 - An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator is being designed in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm and is taped out in July 2023.
 - A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding was fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm in August 2020.
 
+
+<!-- 
 
 # 🔥 News
 - Proficient in digital integrated circuit (IC) front-end development, neural network model compression and FPGA development. 

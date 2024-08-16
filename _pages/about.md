@@ -119,6 +119,7 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 </div>
 
 # 📃 Patent
+- Hailong Jiao, **Yuzhe Fu**, A high-precision approximate calculation device for softmax function, **2024**, *CN Patent*.
 - Fengwei An, **Yuzhe Fu** *et al*., [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent*, CN112070821A / WO2022021912A1
 
 # 🍀 Tape Out

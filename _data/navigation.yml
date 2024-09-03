@@ -2,9 +2,6 @@
 main:
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
     
   - title: "News"
     url: "/#-news"
@@ -17,6 +14,9 @@ main:
 
   - title: "Tape Out"
     url: "/#-tape-out"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
     
   - title: "Skills"
     url: "/#-skills"

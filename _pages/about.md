@@ -29,12 +29,6 @@ E-mail: yuzhe.fu@duke.edu
 - *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology.
 - *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. 
 
-# 🎖 Honors and Awards
-- *2021* Excellent Graduate Award, Southern University of Science and Technology
-- *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
-- *2020* **National Scholarship**, Ministry of Education of the PRC (The highest scholarship for Chinese undergraduates)
-- *2018, 2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
-
 # 🔥 News
 - *2024.08*: Starting my PhD journey — wish me luck🍀!
 - *2024.04*: &nbsp;🎉🎉 Our paper "SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
@@ -125,6 +119,12 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 # 🍀 Tape Out
 - An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator is being designed in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm and is taped out in July 2023.
 - A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding was fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm in August 2020.
+
+# 🎖 Honors and Awards
+- *2021* Excellent Graduate Award, Southern University of Science and Technology
+- *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
+- *2020* **National Scholarship**, Ministry of Education of the PRC (The highest scholarship for Chinese undergraduates)
+- *2018, 2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
 
 # 🚀 Skills
 - Familiar with Verilog HDL, PyTorch, Intel Distiller (Model Compression), Cadence (Genus and NCSim), Vivado.

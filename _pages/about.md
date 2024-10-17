@@ -44,7 +44,7 @@ E-mail: yuzhe.fu@duke.edu
 
 Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation
 
-C. Zhou, T. Huang, Y. Ma, <u>**Yuzhe Fu**</u>, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, H. Jiao.
+C. Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, H. Jiao.
 
 **2025**, *International Solid-State Circuits Conference (ISSCC)* (Accepted)
 
@@ -56,7 +56,7 @@ C. Zhou, T. Huang, Y. Ma, <u>**Yuzhe Fu**</u>, S. Qiu, X. Song, J. Sun, M. Liu, 
 
 [SoftAct: A High-Precision Softmax Architecture for Transformers Supporting Nonlinear Functions](https://ieeexplore.ieee.org/document/10495359)
 
-**Yuzhe Fu**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
+**<u>Yuzhe Fu</u>**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
 
 **2024**, *IEEE Transactions on Circuits and Systems for Video Technology*
 [[pdf](../papers/TCSVT.pdf)]
@@ -73,7 +73,7 @@ C. Zhou, T. Huang, Y. Ma, <u>**Yuzhe Fu**</u>, S. Qiu, X. Song, J. Sun, M. Liu, 
 
 [Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis](https://ieeexplore.ieee.org/document/10430381)
 
-Changchun Zhou#, **Yuzhe Fu**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Jiao.
+Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Jiao.
 
 **2024**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (# with equal contribution)
 [[pdf](../papers/TCAS-II.pdf)]
@@ -89,7 +89,7 @@ Changchun Zhou#, **Yuzhe Fu**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Jiao.
 
 [An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704)
 
-Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao.
+Changchun Zhou, **<u>Yuzhe Fu</u>**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao.
 
 **2023**, *IEEE/ACM International Conference On Computer Aided Design*
 [[pdf](../papers/ICCAD.pdf)][[YouTube](https://youtu.be/3Yw3-jFeRaE)]
@@ -105,7 +105,7 @@ Changchun Zhou, **Yuzhe Fu**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao
 
 [Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/document/10224248)
 
-Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **Yuzhe Fu**, Yifan He, Hailong Jiao.
+Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **<u>Yuzhe Fu</u>**, Yifan He, Hailong Jiao.
 
 **2023**, *IEEE Internet of Things Journal*
 [[pdf](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf)]
@@ -117,7 +117,7 @@ Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **Yuzhe Fu**, Yifan He, Hailong
 
 [A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253)
 
-Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.  
+Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **<u>Yuzhe Fu</u>**, Lei Chen, Fengwei An.  
 
 **2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
 [[pdf](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)]
@@ -126,8 +126,8 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **Yuzhe Fu**, Lei Chen, Fengwei An.
 </div>
 
 # 📃 Patent
-- Hailong Jiao, **Yuzhe Fu**, A high-precision approximate calculation device for softmax function, **2024**, *CN Patent*.
-- Fengwei An, **Yuzhe Fu** *et al*., [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent*, CN112070821A / WO2022021912A1
+- A high-precision approximate calculation device for softmax function, **2024**, *CN Patent*.
+- [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent*, CN112070821A / WO2022021912A1
 
 # 🍀 Tape Out
 - An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator is being designed in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm and is taped out in July 2023.

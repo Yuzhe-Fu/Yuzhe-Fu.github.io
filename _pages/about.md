@@ -44,7 +44,7 @@ E-mail: yuzhe.fu@duke.edu
 
 Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation
 
-C. Zhou, T. Huang, Y. Ma, **Yuzhe Fu**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, H. Jiao.
+C. Zhou, T. Huang, Y. Ma, <u>**Yuzhe Fu**</u>, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, H. Jiao.
 
 **2025**, *International Solid-State Circuits Conference (ISSCC)* (Accepted)
 

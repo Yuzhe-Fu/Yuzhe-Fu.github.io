@@ -30,6 +30,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Our paper "Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation" has been accepted by IEEE ISSCC!
 - *2024.08*: Starting my PhD journey — wish me luck🍀!
 - *2024.04*: &nbsp;🎉🎉 Our paper "SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
 - *2024.02*: &nbsp;🎉🎉 Our paper "Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis" has been accepted by IEEE TCAS-II!
@@ -38,6 +39,18 @@ E-mail: yuzhe.fu@duke.edu
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC</div><img src='images/ISSCC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation
+
+C. Zhou, T. Huang, Y. Ma, **Yuzhe Fu**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, H. Jiao.
+
+**2025**, *International Solid-State Circuits Conference (ISSCC)* (Accepted)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/SoftAct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

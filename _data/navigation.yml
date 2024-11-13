@@ -18,8 +18,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
     
-  - title: "Skills"
-    url: "/#-skills"
+  # - title: "Skills"
+  #   url: "/#-skills"
 
   - title: "About Me"
     url: "/#-about-me"

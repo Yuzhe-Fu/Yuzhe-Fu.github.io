@@ -139,6 +139,11 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **<u>Yuzhe Fu</u>**, Lei Chen, Fengwei A
 - *2020* **National Scholarship**, Ministry of Education of the PRC (The highest scholarship for Chinese undergraduates)
 - *2018, 2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
 
+# 💬 Reviewer for
+- TCSVT-IEEE Transactions on Circuits and Systems for Video Technology
+- ELL-Electronics Letters
+- AICAS-IEEE International Conference on Artificial Intelligence Circuits and Systems
+
 # 🚀 Skills
 - Familiar with Verilog HDL, PyTorch, Intel Distiller (Model Compression), Cadence (Genus and NCSim), Vivado.
 - Knowledgeable in Python, JAVA, MATLAB, Shell, Makefile.

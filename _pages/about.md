@@ -39,6 +39,29 @@ E-mail: yuzhe.fu@duke.edu
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/SpeechPrune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval](https://speechprune.github.io/)
+
+Yueqian Lin#, **<u>Yuzhe Fu</u>**#, Jingyang Zhang, Yudong Liu, Jianyi Zhang, Jingwei Sun, Hai "Helen" Li, Yiran Chen.
+
+**2025**, *arXiv* (# with equal contribution)
+[[pdf](../papers/SpeechPrune.pdf)]
+<details>
+<summary>Abstract</summary>
+While current Speech Large Language Models (Speech LLMs) excel at short-form tasks, they struggle with the computational and representational demands of longer audio clips. 
+To advance the model's capabilities with long-form speech, we introduce Speech Information Retrieval (SIR), a long-context task for Speech LLMs, and present SPIRAL, a 1,012-sample benchmark testing models’ ability to extract critical details from long spoken inputs. 
+To overcome the challenges of processing long speech sequences, we propose SpeechPrune, a training-free token pruning strategy that uses speech-text similarity and approximated attention scores to efficiently discard irrelevant tokens. 
+In SPIRAL, SpeechPrune achieves accuracy improvements of 29\% and up to 47\% over the original model and the random pruning model at a pruning rate of 20\%, respectively. 
+SpeechPrune can maintain network performance even at a pruning level of 80\%. This highlights the potential of token-level pruning for efficient and scalable long-form speech understanding.
+</details>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC</div><img src='images/ISSCC-chip.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

@@ -54,8 +54,8 @@ Yueqian Lin#, **<u>Yuzhe Fu</u>**#, Jingyang Zhang, Yudong Liu, Jianyi Zhang, Ji
 While current Speech Large Language Models (Speech LLMs) excel at short-form tasks, they struggle with the computational and representational demands of longer audio clips. 
 To advance the model's capabilities with long-form speech, we introduce Speech Information Retrieval (SIR), a long-context task for Speech LLMs, and present SPIRAL, a 1,012-sample benchmark testing models’ ability to extract critical details from long spoken inputs. 
 To overcome the challenges of processing long speech sequences, we propose SpeechPrune, a training-free token pruning strategy that uses speech-text similarity and approximated attention scores to efficiently discard irrelevant tokens. 
-In SPIRAL, SpeechPrune achieves accuracy improvements of 29\% and up to 47\% over the original model and the random pruning model at a pruning rate of 20\%, respectively. 
-SpeechPrune can maintain network performance even at a pruning level of 80\%. This highlights the potential of token-level pruning for efficient and scalable long-form speech understanding.
+In SPIRAL, SpeechPrune achieves accuracy improvements of 29% and up to 47% over the original model and the random pruning model at a pruning rate of 20%, respectively. 
+SpeechPrune can maintain network performance even at a pruning level of 80%. This highlights the potential of token-level pruning for efficient and scalable long-form speech understanding.
 </details>
 
 </div>

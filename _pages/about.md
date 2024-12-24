@@ -163,9 +163,10 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **<u>Yuzhe Fu</u>**, Lei Chen, Fengwei A
 - *2018, 2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
 
 # 💻 Reviewer for
-- TCSVT-IEEE Transactions on Circuits and Systems for Video Technology
-- ELL-Electronics Letters
-- AICAS-IEEE International Conference on Artificial Intelligence Circuits and Systems
+- TCSVT-IEEE Transactions on Circuits and Systems for Video Technology (2024)
+- ELL-Electronics Letters (2022, 2025)
+- AICAS-IEEE International Conference on Artificial Intelligence Circuits and Systems (2023, 2025)
+- ICME-IEEE International Conference on Multimedia & Expo (2025)
 
 # ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
 - I am a easy-going and spirited individual with a passion for life. My enthusiasm not only drives my own life but also positively influences those around me.

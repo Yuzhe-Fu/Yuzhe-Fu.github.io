@@ -39,7 +39,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2023.08*: &nbsp;🎉🎉 Our paper "Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding" has been accepted by IEEE IOTJ!
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
 
-# 📝 Main Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/SpeechPrune.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -157,7 +157,7 @@ Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **<u>Yuzhe Fu</u>**, Lei Chen, Fengwei A
 - A high-precision approximate calculation device for softmax function, **2024**, *CN Patent*.
 - [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent*, CN112070821A / WO2022021912A1
 
-# 💻 Reviewer for
+# 💻 Reviewer
 - TCSVT-IEEE Transactions on Circuits and Systems for Video Technology (2024)
 - ELL-Electronics Letters (2022, 2025)
 - AICAS-IEEE International Conference on Artificial Intelligence Circuits and Systems (2023, 2025)

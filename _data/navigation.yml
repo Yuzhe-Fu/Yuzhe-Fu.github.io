@@ -7,19 +7,19 @@ main:
     url: "/#-news"
   
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-main-publications"
 
   - title: "Patent"
     url: "/#-patent"
-
+    
+  - title: "Reviewer"
+    url: "/#-reviewer"
+    
   - title: "Tape Out"
     url: "/#-tape-out"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-    
-  # - title: "Skills"
-  #   url: "/#-skills"
 
   - title: "About Me"
     url: "/#-about-me"

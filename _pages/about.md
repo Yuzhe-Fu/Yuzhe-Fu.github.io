@@ -97,7 +97,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Ji
 </div>
 
 
-# 📝 Collaborated Publications 
+# 📝 Collaborative Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC</div><img src='images/ISSCC-chip.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

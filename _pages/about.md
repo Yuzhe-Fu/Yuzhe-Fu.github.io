@@ -99,7 +99,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Ji
 
 
 # 📝 Collaborative Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI SSS</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI SSS</div><img src='images/AAAI-SSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices

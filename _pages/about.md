@@ -47,7 +47,7 @@ E-mail: yuzhe.fu@duke.edu
 
 [SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval](https://speechprune.github.io/)
 
-Yueqian Lin#, **<u>Yuzhe Fu</u>**#, Jingyang Zhang, Yudong Liu, Jianyi Zhang, Jingwei Sun, Hai "Helen" Li, Yiran Chen.
+Yueqian Lin#, **<u>Yuzhe Fu</u>**#, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Helen" Li, Yiran Chen.
 
 **2025**, *arXiv* (# with equal contribution)
 [[pdf](../papers/SpeechPrune.pdf)]
@@ -69,7 +69,7 @@ SpeechPrune can maintain network performance even at a pruning level of 80%. Thi
 
 [SoftAct: A High-Precision Softmax Architecture for Transformers Supporting Nonlinear Functions](https://ieeexplore.ieee.org/document/10495359)
 
-**<u>Yuzhe Fu</u>**, Changchun Zhou, Tianling Huang, Eryi Han, Yifan He, Hailong Jiao.
+**<u>Yuzhe Fu</u>**, C. Zhou, T. Huang, E. Han, Y. He, Hailong Jiao.
 
 **2024**, *IEEE Transactions on Circuits and Systems for Video Technology*
 [[pdf](../papers/TCSVT.pdf)]
@@ -86,7 +86,7 @@ SpeechPrune can maintain network performance even at a pruning level of 80%. Thi
 
 [Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis](https://ieeexplore.ieee.org/document/10430381)
 
-Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Jiao.
+Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 **2024**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (# with equal contribution)
 [[pdf](../papers/TCAS-II.pdf)]
@@ -104,7 +104,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Ji
 
 GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices
 
-Mozhgan Navardi, Romina Aalishah, **<u>Yuzhe Fu</u>**, Yueqian Lin, Hai Li, Yiran Chen and Tinoosh Mohsenin
+M. Navardi, R. Aalishah, **<u>Yuzhe Fu</u>**, Y. Lin, Hai Li, Yiran Chen and Tinoosh Mohsenin
 
 **2025**, *AAAI Spring Symposium Series (AAAI SSS)* (Accepted)
 
@@ -118,7 +118,7 @@ Mozhgan Navardi, Romina Aalishah, **<u>Yuzhe Fu</u>**, Yueqian Lin, Hai Li, Yira
 
 Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation
 
-C. Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, H. Jiao.
+C. Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, Hailong Jiao.
 
 **2025**, *International Solid-State Circuits Conference (ISSCC)* (Accepted)
 
@@ -131,7 +131,7 @@ C. Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M. Liu, 
 
 [An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704)
 
-Changchun Zhou, **<u>Yuzhe Fu</u>**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailong Jiao.
+C. Zhou, **<u>Yuzhe Fu</u>**, M. Liu, S. Qiu, G. Li, Y, He, Hailong Jiao.
 
 **2023**, *IEEE/ACM International Conference On Computer Aided Design*
 [[pdf](../papers/ICCAD.pdf)][[YouTube](https://youtu.be/3Yw3-jFeRaE)]
@@ -147,7 +147,7 @@ Changchun Zhou, **<u>Yuzhe Fu</u>**, Min Liu, Siyuan Qiu, Ge Li, Yifan He, Hailo
 
 [Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/document/10224248)
 
-Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **<u>Yuzhe Fu</u>**, Yifan He, Hailong Jiao.
+C. Zhou, M. Liu, S. Qiu, X. Cao, **<u>Yuzhe Fu</u>**, Y. He, Hailong Jiao.
 
 **2023**, *IEEE Internet of Things Journal*
 [[pdf](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf)]
@@ -159,7 +159,7 @@ Changchun Zhou, Min Liu, Siyuan Qiu, Xugang Cao, **<u>Yuzhe Fu</u>**, Yifan He, 
 
 [A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253)
 
-Pingcheng Dong, Zhuoyu Chen, Zhuoao Li, **<u>Yuzhe Fu</u>**, Lei Chen, Fengwei An.  
+P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.  
 
 **2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
 [[pdf](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)]

@@ -31,6 +31,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our paper "GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices" has been accepted by AAAI SSS!
 - *2024.10*: &nbsp;🎉🎉 Our paper "Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation" has been accepted by IEEE ISSCC!
 - *2024.08*: Starting my PhD journey — wish me luck🍀!
 - *2024.04*: &nbsp;🎉🎉 Our paper "SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
@@ -98,6 +99,19 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Yanzhe Ma, Eryi Han, Yifan He, Hailong Ji
 
 
 # 📝 Collaborative Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI SSS</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices
+
+Mozhgan Navardi, Romina Aalishah, **<u>Yuzhe Fu</u>**, Yueqian Lin, Hai Li, Yiran Chen and Tinoosh Mohsenin
+
+**2025**, *AAAI Spring Symposium Series (AAAI SSS)* (Accepted)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC</div><img src='images/ISSCC-chip.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

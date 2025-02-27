@@ -34,8 +34,8 @@ E-mail: yuzhe.fu@duke.edu
 - *2025.02*: &nbsp;🎉🎉 Our paper "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816): Comprehensive Survey on Empowering Edge Devices" has been accepted by AAAI SSS! In this work, I provide an overview of recent well-known architectures and chip works for LLMs and diffusion networks. I hope you find it insightful and helpful!
 - *2024.10*: &nbsp;🎉🎉 Our paper "Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation" has been accepted by IEEE ISSCC!
 - *2024.08*: Starting my PhD journey — wish me luck🍀!
-- *2024.04*: &nbsp;🎉🎉 Our paper "SoftAct: A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
-- *2024.02*: &nbsp;🎉🎉 Our paper "Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis" has been accepted by IEEE TCAS-II!
+- *2024.04*: &nbsp;🎉🎉 Our paper "[SoftAct](https://ieeexplore.ieee.org/document/10495359): A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
+- *2024.02*: &nbsp;🎉🎉 Our paper "[Adjustable Multi-Stream Block-Wise Farthest Point Sampling](https://ieeexplore.ieee.org/document/10430381) Acceleration in Point Cloud Analysis" has been accepted by IEEE TCAS-II!
 - *2023.10*: &nbsp;🎉🎉 I have presented the [3D Point Cloud Neural Network Accelerator](https://youtu.be/3Yw3-jFeRaE) at IEEE/ACM ICCAD 2023!
 - *2023.08*: &nbsp;🎉🎉 Our paper "Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding" has been accepted by IEEE IOTJ!
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!

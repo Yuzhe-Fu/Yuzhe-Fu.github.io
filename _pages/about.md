@@ -32,7 +32,7 @@ E-mail: yuzhe.fu@duke.edu
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Our paper "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816): Comprehensive Survey on Empowering Edge Devices" has been accepted by AAAI SSS! In this work, I provide an overview of recent well-known architectures and chip works for LLMs and diffusion networks. I hope you find it insightful and helpful!
-- *2024.10*: &nbsp;🎉🎉 Our paper "Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation" has been accepted by IEEE ISSCC!
+- *2024.10*: &nbsp;🎉🎉 Our paper "[Nebula](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw): A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation" has been accepted by IEEE ISSCC!
 - *2024.08*: Starting my PhD journey — wish me luck🍀!
 - *2024.04*: &nbsp;🎉🎉 Our paper "[SoftAct](https://ieeexplore.ieee.org/document/10495359): A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
 - *2024.02*: &nbsp;🎉🎉 Our paper "[Adjustable Multi-Stream Block-Wise Farthest Point Sampling](https://ieeexplore.ieee.org/document/10430381) Acceleration in Point Cloud Analysis" has been accepted by IEEE TCAS-II!
@@ -116,12 +116,15 @@ M. Navardi, R. Aalishah, **<u>Yuzhe Fu</u>**, Y. Lin, Hai Li, Yiran Chen and Tin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC</div><img src='images/ISSCC-chip.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation
+[Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw)
 
 C. Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, Hailong Jiao.
 
-**2025**, *International Solid-State Circuits Conference (ISSCC)* (Accepted)
-
+**2025**, *International Solid-State Circuits Conference (ISSCC)* 
+<details>
+<summary>Abstract</summary>
+  Three-dimensional (3D) point clouds are increasingly deployed across various emerging fields, such as autonomous driving, robots, drones, and virtual reality (VR) [1]–[6]. Point-based point-cloud neural networks (PNNs) [3]–[6] have demonstrated superior performance in point-cloud analysis, compared to both sparse 3D convolution-based networks [7], [8] and graph-based convolutional neural networks [9], [10]. Due to the high computational complexity, low parallelism, and frequent irregular external memory accesses, deploying PNNs in hardware is a great challenge. PNN hardware accelerators have been developed [11]–[20]. However, three key challenges remain unsolved in these accelerators, as illustrated in Fig. 23.4.1. 1) The inherent farthest point sampling (FPS) features serial computation and suffers from quadratic growth in inference latency with rising point counts. The existing uniform block-wise FPS techniques [13], [21] fail to achieve a well-balanced block segmentation, due to a typically non-uniform point distribution. 2) A large amount of redundant operations exist for both discarded points (DPs) and retained points (RPs) in FPS. These operations exist in the sampling operations of RPs ① as well as grouping ② convolution ③, and aggregation ④ for DPs, introducing unnecessary energy and latency costs. 3) The irregular memory accesses in the aggregation operation cause significant latency penalties. Channel-wise aggregation in [11] relieves irregularity, yet is unsuitable for large-scale point clouds, as the external memory access of features and the neighbor index table (NIT) is quadratically increased due to the iterative loading of features or the NIT.
+</details>
 </div>
 </div>
 

@@ -31,6 +31,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Our paper "[SpeechPrune](https://speechprune.github.io/): Context-aware Token Pruning for Speech Information Retrieval" has been accepted by IEEE ICME! In this work, we proposed a new dataset for long speech information retrieval task in LLM, alone with an training-free pruning strategy for this task.
 - *2025.02*: &nbsp;🎉🎉 Our paper "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816): Comprehensive Survey on Empowering Edge Devices" has been accepted by AAAI SSS! In this work, I provide an overview of recent well-known architectures and chip works for LLMs and diffusion networks. I hope you find it insightful and helpful!
 - *2024.10*: &nbsp;🎉🎉 Our paper "[Nebula](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw): A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation" has been accepted by IEEE ISSCC!
 - *2024.08*: Starting my PhD journey — wish me luck🍀!
@@ -42,14 +43,14 @@ E-mail: yuzhe.fu@duke.edu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/SpeechPrune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME</div><img src='images/SpeechPrune.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval](https://speechprune.github.io/)
 
 Yueqian Lin#, **<u>Yuzhe Fu</u>**#, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Helen" Li, Yiran Chen.
 
-**2025**, *arXiv* (# with equal contribution)
+**2025**, *IEEE International Conference on Multimedia & Expo (Accept)* (# with equal contribution)
 [[pdf](../papers/SpeechPrune.pdf)]
 <details>
 <summary>Abstract</summary>

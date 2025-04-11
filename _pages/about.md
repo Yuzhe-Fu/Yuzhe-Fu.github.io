@@ -32,7 +32,7 @@ E-mail: yuzhe.fu@duke.edu
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Our paper "[SpeechPrune](https://speechprune.github.io/): Context-aware Token Pruning for Speech Information Retrieval" has been accepted by IEEE ICME! In this work, we proposed a new dataset for long speech information retrieval task in LLM, alone with an training-free pruning strategy for this task.
-- *2025.02*: &nbsp;🎉🎉 Our paper "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816): Comprehensive Survey on Empowering Edge Devices" has been accepted by AAAI SSS! In this work, I provide an overview of recent well-known architectures and chip works for LLMs and diffusion networks. I hope you find it insightful and helpful!
+- *2025.02*: &nbsp;🎉🎉 Our paper "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816): Comprehensive Survey on Empowering Edge Devices" has been accepted by AAAI SSS **(with Best Paper Award)**! In this work, I provide an overview of recent well-known architectures and chip works for LLMs and diffusion networks. I hope you find it insightful and helpful!
 - *2024.10*: &nbsp;🎉🎉 Our paper "[Nebula](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw): A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation" has been accepted by IEEE ISSCC!
 - *2024.08*: Starting my PhD journey — wish me luck🍀!
 - *2024.04*: &nbsp;🎉🎉 Our paper "[SoftAct](https://ieeexplore.ieee.org/document/10495359): A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
@@ -107,7 +107,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 M. Navardi, R. Aalishah, **<u>Yuzhe Fu</u>**, Y. Lin, Hai Li, Yiran Chen and Tinoosh Mohsenin
 
-**2025**, *AAAI Spring Symposium Series (AAAI SSS)* (Accepted)
+**2025**, *AAAI Spring Symposium Series (AAAI SSS)* (Best Paper Award 🎉)
 
 </div>
 </div>

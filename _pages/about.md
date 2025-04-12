@@ -32,7 +32,7 @@ E-mail: yuzhe.fu@duke.edu
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Our paper "[SpeechPrune](https://speechprune.github.io/): Context-aware Token Pruning for Speech Information Retrieval" has been accepted by IEEE ICME! In this work, we proposed a new dataset for long speech information retrieval task in LLM, alone with an training-free pruning strategy for this task.
-- *2025.02*: &nbsp;🎉🎉 Our paper "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816): Comprehensive Survey on Empowering Edge Devices" has been accepted by AAAI SSS **(with Best Paper Award)**! In this work, I provide an overview of recent well-known architectures and chip works for LLMs and diffusion networks. I hope you find it insightful and helpful!
+- *2025.02*: &nbsp;🎉🎉 **(Best Paper Award)** Our paper "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816): Comprehensive Survey on Empowering Edge Devices" has been accepted by AAAI SSS! In this work, I provide an overview of recent well-known architectures and chip works for LLMs and diffusion networks. I hope you find it insightful and helpful!
 - *2024.10*: &nbsp;🎉🎉 Our paper "[Nebula](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw): A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation" has been accepted by IEEE ISSCC!
 - *2024.08*: Starting my PhD journey — wish me luck🍀!
 - *2024.04*: &nbsp;🎉🎉 Our paper "[SoftAct](https://ieeexplore.ieee.org/document/10495359): A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
@@ -107,7 +107,12 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 M. Navardi, R. Aalishah, **<u>Yuzhe Fu</u>**, Y. Lin, Hai Li, Yiran Chen and Tinoosh Mohsenin
 
-**2025**, *AAAI Spring Symposium Series (AAAI SSS)* (Best Paper Award 🎉)
+**Best Paper Award**🎉, **2025**, *AAAI Spring Symposium Series (AAAI SSS)*
+
+<details>
+<summary>Abstract</summary>
+Generative Artificial Intelligence (GenAI) applies models and algorithms such as Large Language Model (LLM) and Foundation Model (FM) to generate new data. GenAI, as a promising approach, enables advanced capabilities in various applications, including text generation and image processing. In current practice, GenAI algorithms run mainly on the cloud server, leading to high latency and raising security concerns. Consequently, these challenges encourage the deployment of GenAI algorithms directly on edge devices. However, the large size of such models and their significant computational resource requirements pose obstacles when deploying them in resource-constrained systems. This survey provides a comprehensive overview of recent proposed techniques that optimize GenAI for efficient deployment on resource-constrained edge devices. For this aim, this work highlights three main categories for bringing GenAI to the edge: software optimization, hardware optimization, and frameworks. The main takeaways for readers of this survey will be a clear roadmap to design, implement, and refine GenAI systems for real-world implementation on edge devices.
+</details>
 
 </div>
 </div>

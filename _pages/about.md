@@ -177,7 +177,7 @@ P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.
 </div>
 
 # 📃 Patent
-- A high-precision approximate calculation device for softmax function, **2024**, *CN Patent*.
+- [A high-precision approximate calculation device for softmax function](https://patents.google.com/patent/CN118733946A/en), **2024**, *CN Patent*, CN118733946A.
 - [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent*, CN112070821A / WO2022021912A1
 
 # 💻 Reviewer
@@ -191,10 +191,11 @@ P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.
 - A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding was fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm in August 2020.
 
 # 🎖 Honors and Awards
+- *2025* Best Paper Award (2nd Place) in AAAI Spring Symposium Series.
 - *2021* Excellent Graduate Award, Southern University of Science and Technology
 - *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
 - *2020* **National Scholarship**, Ministry of Education of the PRC (The highest scholarship for Chinese undergraduates)
-- *2018, 2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
+
 
 # ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
 - I am a easy-going and spirited individual with a passion for life. My enthusiasm not only drives my own life but also positively influences those around me.
@@ -202,6 +203,9 @@ P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.
 
 
 <!-- 
+
+- *2018, 2019* The First Prize of Outstanding Students in SUSTech (**Top 5%** in SUSTech)
+
 # 🚀 Skills
 - Familiar with Verilog HDL, PyTorch, Intel Distiller (Model Compression), Cadence (Genus and NCSim), Vivado.
 - Knowledgeable in Python, JAVA, MATLAB, Shell, Makefile.

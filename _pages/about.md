@@ -185,6 +185,7 @@ P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.
 - ELL-Electronics Letters (2022, 2025)
 - AICAS-IEEE International Conference on Artificial Intelligence Circuits and Systems (2023, 2025)
 - ICME-IEEE International Conference on Multimedia & Expo (2025)
+- AVSS-IEEE International Conference on Advanced Visual and Signal-Based Systems (2025)
 
 # 🍀 Tape Out
 - An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator is being designed in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm and is taped out in July 2023.

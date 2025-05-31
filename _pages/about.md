@@ -50,7 +50,7 @@ E-mail: yuzhe.fu@duke.edu
 
 Yueqian Lin#, **<u>Yuzhe Fu</u>**#, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Helen" Li, Yiran Chen.
 
-**2025**, *IEEE International Conference on Multimedia & Expo (Oral)* (# with equal contribution)
+**2025**, *IEEE International Conference on Multimedia & Expo* (# with equal contribution, Oral, Top 15% in all submissions)
 [[pdf](../papers/SpeechPrune.pdf)]
 <details>
 <summary>Abstract</summary>

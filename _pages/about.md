@@ -50,7 +50,10 @@ E-mail: yuzhe.fu@duke.edu
 
 Yueqian Lin#, **<u>Yuzhe Fu</u>**#, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Helen" Li, Yiran Chen.
 
-**2025**, *IEEE International Conference on Multimedia & Expo* (# with equal contribution, Oral, Top 15% in all submissions)
+**2025**, *IEEE International Conference on Multimedia & Expo* (# with equal contribution)
+
+Oral, Top 15% in all submissions
+
 [[pdf](../papers/SpeechPrune.pdf)]
 <details>
 <summary>Abstract</summary>
@@ -73,6 +76,7 @@ SpeechPrune can maintain network performance even at a pruning level of 80%. Thi
 **<u>Yuzhe Fu</u>**, C. Zhou, T. Huang, E. Han, Y. He, Hailong Jiao.
 
 **2024**, *IEEE Transactions on Circuits and Systems for Video Technology*
+
 [[pdf](../papers/TCSVT.pdf)]
 <details>
 <summary>Abstract</summary>
@@ -90,6 +94,7 @@ SpeechPrune can maintain network performance even at a pruning level of 80%. Thi
 Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 **2024**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (# with equal contribution)
+
 [[pdf](../papers/TCAS-II.pdf)]
 <details>
 <summary>Abstract</summary>

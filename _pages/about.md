@@ -225,6 +225,7 @@ P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.
 - [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent*, CN112070821A / WO2022021912A1
 
 # 💻 Reviewer
+- AAAI-Association for the Advancement of Artificial Intelligence (2026) 
 - TCSVT-IEEE Transactions on Circuits and Systems for Video Technology (2024)
 - ELL-Electronics Letters (2022, 2025)
 - AICAS-IEEE International Conference on Artificial Intelligence Circuits and Systems (2023, 2025)

@@ -232,6 +232,9 @@ P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.
 - ICME-IEEE International Conference on Multimedia & Expo (2025)
 - AVSS-IEEE International Conference on Advanced Visual and Signal-Based Systems (2025)
 
+# 💬 Teaching Assistant
+- CS372 Introduction to Applied Machine Learning (25 Fall)
+
 # 🍀 Tape Out
 - An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator is being designed in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm and is taped out in July 2023.
 - A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding was fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm in August 2020.

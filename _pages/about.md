@@ -31,15 +31,18 @@ E-mail: yuzhe.fu@duke.edu
 - *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. 
 
 # 🔥 News
+- *2025.09*: &nbsp;(NerIPS 26)🎉🎉 Two collaborative papers have been accepted by NerIPS 26! Congrats! Please fell free to check 1.[Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and 2.(Open-sourcing in progress).
 - *2025.06*: &nbsp;(PhD Journey) Finish my Reasearch Initial Project Defense ✅, which is the first milestone in my PhD journey!
-- *2025.03*: &nbsp;(Paper)🎉🎉 "[SpeechPrune](https://speechprune.github.io/): Context-aware Token Pruning for Speech Information Retrieval" has been accepted by IEEE ICME! In this work, we proposed a new dataset for long speech information retrieval task in LLM, alone with an training-free pruning strategy for this task.
-- *2025.02*: &nbsp;**(Best Paper Award)** 🎉🎉 "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816): Comprehensive Survey on Empowering Edge Devices" has been accepted by AAAI SSS! In this work, I provide an overview of recent well-known architectures and chip works for LLMs and diffusion networks. I hope you find it insightful and helpful!
-- *2024.10*: &nbsp;(Paper)🎉🎉 "[Nebula](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw): A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation" has been accepted by IEEE ISSCC!
+- *2025.03*: &nbsp;(**ICME 25**)🎉🎉 "[SpeechPrune](https://speechprune.github.io/)" has been accepted by IEEE ICME 25!
+- *2025.02*: &nbsp;(AAAI-SSS 25, Best Paper Award) 🎉🎉 One collaborative paper "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816)" has been accepted by AAAI-SSS 25!
+- *2024.10*: &nbsp;(ISSCC 25)🎉🎉 "[Nebula](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw)" has been accepted by IEEE ISSCC 25!
 - *2024.08*: &nbsp;(PhD Journey) Starting my PhD journey — wish me luck🍀!
-- *2024.04*: &nbsp;(Paper)🎉🎉 "[SoftAct](https://ieeexplore.ieee.org/document/10495359): A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
-- *2024.02*: &nbsp;(Paper)🎉🎉 "[Adjustable Multi-Stream Block-Wise Farthest Point Sampling](https://ieeexplore.ieee.org/document/10430381) Acceleration in Point Cloud Analysis" has been accepted by IEEE TCAS-II!
-- *2023.08*: &nbsp;(Paper)🎉🎉 "Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding" has been accepted by IEEE IOTJ!
-- *2023.07*: &nbsp;(Paper)🎉🎉 "An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling" has been accepted by IEEE/ACM ICCAD 2023!
+- *2024.04*: &nbsp;(**TCSVT**)🎉🎉 "[SoftAct](https://ieeexplore.ieee.org/document/10495359): A High-Precision Softmax Architecture for Transformers with Nonlinear Functions Support" has been accepted by IEEE TCSVT!
+- *2024.02*: &nbsp;(**TCAS-II**)🎉🎉 "[Multi-Stream Block-Wise FPS](https://ieeexplore.ieee.org/document/10430381)" has been accepted by IEEE TCAS-II!
+- *2023.08*: &nbsp;(IOTJ)🎉🎉 "[Sagitta](https://ieeexplore.ieee.org/document/10224248)" has been accepted by IEEE IOTJ!
+- *2023.07*: &nbsp;(ICCAD 23)🎉🎉 "[PNN Accelerator with Pruning, Fusion, and Sampling](https://ieeexplore.ieee.org/document/10323704)" has been accepted by IEEE/ACM ICCAD 23!
+- *2021*: &nbsp;(TCAS-I)🎉🎉  "[Stereo depth coprocessor](https://ieeexplore.ieee.org/abstract/document/9505253)" has been accepted by TCAS-I!
+- Noted: **Bold**: Main paper; others: Collaborative papers.
 
 # 📝 Publications 
 
@@ -140,7 +143,6 @@ The code and benchmark dataset are publicly available at https://github.com/liny
 </details>
 </div>
 </div>
-
 
 
 

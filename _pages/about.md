@@ -108,14 +108,14 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 
 # 📝 Collaborative Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/AnglesDontLie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/AnglesDontLie.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281)
 
 Qinsi Wang, J. Ke, H. Ye, Y. Liu, **<u>Yuzhe Fu</u>**, J. Zhang, K. Keutzer, C. Xu, and Yiran Chen
 
-**2025**, *ArXiv Preprint* [[codes](https://github.com/wangqinsi1/GAINRL/tree/main)]
+**2026**, *NeurIPS* [[codes](https://github.com/wangqinsi1/GAINRL/tree/main)]
 
 <details>
 <summary>Abstract</summary>
@@ -146,8 +146,7 @@ The code and benchmark dataset are publicly available at https://github.com/liny
 
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/AAAI-SSS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-SSS</div><img src='images/AAAI-SSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices](https://arxiv.org/pdf/2502.15816)

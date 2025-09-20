@@ -31,7 +31,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. 
 
 # 🔥 News
-- *2025.09*: &nbsp;(NerIPS 26)🎉🎉 Two collaborative papers have been accepted by NerIPS 26! Congrats! Please fell free to check 1.[Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and 2.(Open-sourcing in progress).
+- *2025.09*: &nbsp;(NeurIPS 26)🎉🎉 Two collaborative papers have been accepted by NeurIPS 26! Congrats! Please fell free to check 1.[Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and 2.(Open-sourcing in progress).
 - *2025.06*: &nbsp;(PhD Journey) Finish my Reasearch Initial Project Defense ✅, which is the first milestone in my PhD journey!
 - *2025.03*: &nbsp;(**ICME 25**)🎉🎉 "[SpeechPrune](https://speechprune.github.io/)" has been accepted by IEEE ICME 25!
 - *2025.02*: &nbsp;(AAAI-SSS 25, Best Paper Award) 🎉🎉 One collaborative paper "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816)" has been accepted by AAAI-SSS 25!

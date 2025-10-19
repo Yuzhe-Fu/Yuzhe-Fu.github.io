@@ -34,8 +34,8 @@ E-mail: yuzhe.fu@duke.edu
 # 📖 Educations
 - *2024.08 - Present*, PhD student in the department of Computer Science, Duke University.
 - *2021.09 - 2024.07*, Master of Science, Peking University.
-- *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology.
 - *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. 
+- *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology.
 
 # 🔥 News
 - *2025.09*: &nbsp;(NeurIPS 26)🎉🎉 Two collaborative papers have been accepted by NeurIPS 26! Congrats! Please fell free to check 1.[Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and 2.(Open-sourcing in progress).

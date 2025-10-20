@@ -239,6 +239,7 @@ P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.
 - AICAS-IEEE International Conference on Artificial Intelligence Circuits and Systems (2023, 2025)
 - ICME-IEEE International Conference on Multimedia & Expo (2025)
 - AVSS-IEEE International Conference on Advanced Visual and Signal-Based Systems (2025)
+- Help to review: ISCA (2025), MICRO (2025), HPCA (2026).
 
 # 💬 Teaching Assistant
 - CS372 Introduction to Applied Machine Learning (25 Fall)

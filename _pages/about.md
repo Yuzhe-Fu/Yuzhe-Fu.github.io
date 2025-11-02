@@ -230,7 +230,7 @@ P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.
 </div>
 
 # 📃 Patent
-- [A high-precision approximate calculation device for softmax function](https://patents.google.com/patent/CN118733946A/en), **2024**, *CN Patent*, CN118733946A.
+- [A high-precision approximate calculation device for softmax function](https://patents.google.com/patent/CN118733946A/en), **2024**, *CN Patent*, CN118733946B.
 - [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent*, CN112070821A / WO2022021912A1
 
 # 💻 Reviewer

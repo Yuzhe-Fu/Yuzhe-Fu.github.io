@@ -20,8 +20,8 @@ redirect_from:
 **Hi!** I am currently a PhD student in the Department of Computer Science of [Duke University](https://duke.edu/), and a member of [Computational Evolutionary Intelligence (CEI) Lab](https://cei.pratt.duke.edu/) under the supervision of [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/) and [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen). Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **algorithm-hardware co-design** for GenAI. Please don't hesitate to reach out if you have any questions or interests🍀.
 
 **Publications Overview:**
-- Under Review: **HPCA'26**, **CSUR**
-- GenAI/Attention: **TCSVT'24**, **ICME'25**, NeurIPS'26, AAAI-SSS'25
+- Under Review: **CSUR**
+- GenAI/Attention: **HPCA'26**, **TCSVT'24**, **ICME'25**, NeurIPS'26, AAAI-SSS'25
 - PNN: **TCAS-II'24**, ISSCC'25, ICCAD'23, IOT-J'23
 - Other: TCAS-I'21
 
@@ -39,6 +39,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology.
 
 # 🔥 News
+- *2025.11*: &nbsp;(**HPCA 26**)🎉🎉 One work has been accepted by HPCA 26!
 - *2025.09*: &nbsp;(NeurIPS 26)🎉🎉 Two collaborative papers have been accepted by NeurIPS 26! Congrats! Please fell free to check 1. [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and 2. [KVCOMM](https://arxiv.org/abs/2510.12872).
 - *2025.06*: &nbsp;(PhD Journey) Finish my Reasearch Initial Project Defense ✅, which is the first milestone in my PhD journey!
 - *2025.03*: &nbsp;(**ICME 25**)🎉🎉 "[SpeechPrune](https://speechprune.github.io/)" has been accepted by IEEE ICME 25!

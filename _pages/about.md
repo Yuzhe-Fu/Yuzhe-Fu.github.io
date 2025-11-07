@@ -21,8 +21,8 @@ redirect_from:
 
 **Publications Overview:**
 - Under Review: **CSUR**
-- GenAI/Attention: **HPCA'26**, **TCSVT'24**, **ICME'25**, NeurIPS'26, AAAI-SSS'25
-- PNN: **TCAS-II'24**, ISSCC'25, ICCAD'23, IOT-J'23
+- GenAI/Attention: **TCSVT'24**, **ICME'25**, NeurIPS'26, AAAI-SSS'25
+- PNN: **HPCA'26**, **TCAS-II'24**, ISSCC'25, ICCAD'23, IOT-J'23
 - Other: TCAS-I'21
 
 E-mail: yuzhe.fu@duke.edu

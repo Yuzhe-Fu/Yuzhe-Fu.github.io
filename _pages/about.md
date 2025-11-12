@@ -39,7 +39,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology.
 
 # 🔥 News
-- *2025.11*: &nbsp;(**HPCA 26**)🎉🎉 "FractalCloud" has been accepted by HPCA 26! Cheers!
+- *2025.11*: &nbsp;(**HPCA 26**)🎉🎉 "[FractalCloud](https://arxiv.org/abs/2511.07665)" has been accepted by HPCA 26! Cheers!
 - *2025.09*: &nbsp;(NeurIPS 26)🎉🎉 Two collaborative papers have been accepted by NeurIPS 26! Congrats! Please fell free to check 1. [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and 2. [KVCOMM](https://arxiv.org/abs/2510.12872).
 - *2025.06*: &nbsp;(PhD Journey) Finish my Reasearch Initial Project Defense ✅, which is the first milestone in my PhD journey!
 - *2025.03*: &nbsp;(**ICME 25**)🎉🎉 "[SpeechPrune](https://speechprune.github.io/)" has been accepted by IEEE ICME 25!
@@ -55,12 +55,32 @@ E-mail: yuzhe.fu@duke.edu
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA</div><img src='images/FractalCloud.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665)
+
+**<u>Yuzhe Fu</u>**, C. Zhou, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo, Hai "Helen" Li, Yiran Chen.
+
+**2026**, *IEEE International Symposium on High-Performance Computer Architectur*
+
+
+[[pdf](https://arxiv.org/pdf/2511.07665)]
+<details>
+<summary>Abstract</summary>
+Three-dimensional (3D) point clouds are increasingly used in applications such as autonomous driving, robotics, and virtual reality (VR). Point-based neural networks (PNNs) have demonstrated strong performance in point cloud analysis, originally targeting small-scale inputs. However, as PNNs evolve to process large-scale point clouds with hundreds of thousands of points, all-to-all computation and global memory access in point cloud processing introduce substantial overhead, causing O(n2) computational complexity and memory traffic where 
+n is the number of points. Existing accelerators, primarily optimized for small-scale workloads, overlook this challenge and scale poorly due to inefficient partitioning and non-parallel architectures. To address these issues, we propose FractalCloud, a fractal-inspired hardware architecture for efficient large-scale 3D point cloud processing. FractalCloud introduces two key optimizations: (1) a co-designed Fractal method for shape-aware and hardware-friendly partitioning, and (2) block-parallel point operations that decompose and parallelize all point operations. A dedicated hardware design with on-chip fractal and flexible parallelism further enables fully parallel processing within limited memory resources. Implemented in 28 nm technology as a chip layout with a core area of 1.5 mm2, FractalCloud achieves 21.7× speedup and 27× energy reduction over state-of-the-art accelerators while maintaining network accuracy, demonstrating its scalability and efficiency for PNN inference.
+</details>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME</div><img src='images/SpeechPrune.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval](https://speechprune.github.io/)
 
-Yueqian Lin#, **<u>Yuzhe Fu</u>**#, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Helen" Li, Yiran Chen.
+Yueqian Lin#, **<u>Yuzhe Fu</u>**, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Helen" Li, Yiran Chen.
 
 **2025**, *IEEE International Conference on Multimedia & Expo* (# with equal contribution)
 

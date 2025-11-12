@@ -62,7 +62,7 @@ E-mail: yuzhe.fu@duke.edu
 
 **<u>Yuzhe Fu</u>**, C. Zhou, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo, Hai "Helen" Li, Yiran Chen.
 
-**2026**, *IEEE International Symposium on High-Performance Computer Architectur*
+**2026**, *IEEE International Symposium on High-Performance Computer Architecture (accepted)*
 
 
 [[pdf](https://arxiv.org/pdf/2511.07665)]

@@ -20,8 +20,8 @@ redirect_from:
 **Hi!** I am currently a PhD student in the Department of Computer Science of [Duke University](https://duke.edu/), and a member of [Computational Evolutionary Intelligence (CEI) Lab](https://cei.pratt.duke.edu/) under the supervision of [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/) and [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen). Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **algorithm-hardware co-design** for GenAI. Please don't hesitate to reach out if you have any questions or interests🍀.
 
 **Publications Overview:** (Bold indicates first-author work)
-- Computer Architecture & Integrated Circuit: **[HPCA](https://arxiv.org/abs/2511.07665)**'26, **[TCSVT](../papers/TCSVT.pdf)**'24, **[TCAS-II](../papers/TCAS-II.pdf)**'24, ISSCC'25, ICCAD'23, IOT-J'23, TCAS-I'21
-- AI/ML & System:  **ICME'25**, 2*NeurIPS'26, 
+- Computer Architecture & Integrated Circuit: **[HPCA'26](https://arxiv.org/abs/2511.07665)**, **[TCSVT'24](../papers/TCSVT.pdf)**, **[TCAS-II'24](../papers/TCAS-II.pdf)**, ISSCC'25, ICCAD'23, IOT-J'23, TCAS-I'21
+- AI/ML & System:  **[ICME'25](https://speechprune.github.io/)**, 2*NeurIPS'26, 
 - Survey: AAAI-SSS'25 (Best paper award)
 - Under Review: **DAC'26**, **CSUR'26**
 
@@ -55,7 +55,7 @@ E-mail: yuzhe.fu@duke.edu
 
 # 📝 Main Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA</div><img src='images/FractalCloud.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA'26</div><img src='images/FractalCloud.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665)
@@ -75,7 +75,7 @@ n is the number of points. Existing accelerators, primarily optimized for small-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME</div><img src='images/SpeechPrune.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME'25</div><img src='images/SpeechPrune.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval](https://speechprune.github.io/)
@@ -100,7 +100,7 @@ SpeechPrune can maintain network performance even at a pruning level of 80%. Thi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/SoftAct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT'24</div><img src='images/SoftAct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SoftAct: A High-Precision Softmax Architecture for Transformers Supporting Nonlinear Functions](https://ieeexplore.ieee.org/document/10495359)
@@ -118,7 +118,7 @@ SpeechPrune can maintain network performance even at a pruning level of 80%. Thi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II</div><img src='images/TCASII.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II'24</div><img src='images/TCASII.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adjustable Multi-Stream Block-Wise Farthest Point Sampling Acceleration in Point Cloud Analysis](https://ieeexplore.ieee.org/document/10430381)
@@ -138,7 +138,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 # 📝 Collaborative Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC</div><img src='images/ISSCC-chip.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC'25</div><img src='images/ISSCC-chip.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw)
@@ -156,7 +156,7 @@ Changchun Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/AnglesDontLie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/AnglesDontLie.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281)
@@ -173,6 +173,25 @@ Code is realsed at https://github.com/wangqinsi1/GAINRL/tree/main.
 </details>
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/KVCOMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/pdf/2510.12872)
+Hancheng Ye, Z. Gao, M. Ma, Q. Wang, **<u>Yuzhe Fu</u>**, M. Chung, Y. Lin, Z. Liu, J. Zhang, D. Zhuo, and Yiran Chen
+
+**2026**, *NeurIPS* [[codes](https://github.com/FastMAS/KVCOMM)]
+
+<details>
+<summary>Abstract</summary>
+Multi-agent large language model (LLM) systems are increasingly adopted for complex language processing tasks that require communication and coordination among agents. However, these systems often suffer substantial overhead from repeated reprocessing of overlapping contexts across agents. In typical pipelines, once an agent receives a message from its predecessor, the full context-including prior turns-must be reprocessed from scratch, leading to inefficient processing. While key-value (KV) caching is an effective solution for avoiding redundant computation in single-agent settings where prefixes remain unchanged, it cannot be directly reused in multi-agent scenarios due to diverging prefixes introduced by agent-specific context extensions. We identify that the core challenge lies in the offset variance of KV-caches across agents. To address this, we propose KVCOMM, a training-free framework that enables efficient prefilling in multi-agent inference by reusing KV-caches and aligning cache offsets of overlapping contexts under diverse prefix contexts. KVCOMM estimates and adjusts KV-caches for shared content by referencing a pool of cached examples—termed anchors—that store observed cache deviations under varying prefixes. The anchor pool is maintained and updated online, allowing dynamic adaptation to distinct user requests and context structures. KVCOMM achieves over 70% reuse rate across diverse multi-agent workloads, including retrieval-augmented generation, math reasoning, and collaborative coding tasks, all without quality degradation. Particularly, when each fully-connected agent receives 1K input tokens with 512 prefix tokens and 512 output tokens under a five-agent setting, KVCOMM achieves up to 7.8×speedup compared to the standard prefill pipeline, reducing TTFT from 430ms to 55ms.
+
+Code is available at https://github.com/FastMAS/KVCOMM.
+</details>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/hipp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

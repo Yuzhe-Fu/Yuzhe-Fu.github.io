@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuzhe Fu"
-description              : "PhD student at CEI lab of DUKE. Focusing on algorithm-hardware co-design."
+description              : "PhD student at CEI lab of DUKE. Focusing on algorithm-hardware co-design for efficient ML/AI."
 repository               : "Yuzhe-Fu/Yuzhe-Fu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "Yuzhe Fu"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

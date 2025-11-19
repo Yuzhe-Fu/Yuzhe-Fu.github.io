@@ -213,7 +213,7 @@ The code and benchmark dataset are publicly available at https://github.com/liny
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-SSS</div><img src='images/AAAI-SSS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-SSS'25</div><img src='images/AAAI-SSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices](https://arxiv.org/pdf/2502.15816)
@@ -230,7 +230,7 @@ Generative Artificial Intelligence (GenAI) applies models and algorithms such as
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD'23</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704)
@@ -246,7 +246,7 @@ C. Zhou, **<u>Yuzhe Fu</u>**, M. Liu, S. Qiu, G. Li, Y, He, Hailong Jiao.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ'23</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/document/10224248)
@@ -258,7 +258,7 @@ C. Zhou, M. Liu, S. Qiu, X. Cao, **<u>Yuzhe Fu</u>**, Y. He, Hailong Jiao.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I</div><img src='images/tcas-i.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I'21</div><img src='images/tcas-i.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253)

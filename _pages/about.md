@@ -20,8 +20,8 @@ redirect_from:
 **Hi!** I am currently a PhD student in the Department of Computer Science of [Duke University](https://duke.edu/), and a member of [Computational Evolutionary Intelligence (CEI) Lab](https://cei.pratt.duke.edu/) under the supervision of [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/) and [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen). Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **algorithm-hardware co-design** for GenAI. Please don't hesitate to reach out if you have any questions or interests🍀.
 
 **Publications Overview:** (Bold indicates first-author work)
-- Computer Architecture & ML System: **HPCA'26**, **TCSVT'24**, **TCAS-II'24**, NeurIPS'26, ISSCC'25, ICCAD'23, IOT-J'23, TCAS-I'21
-- AI/ML:  **ICME'25**, NeurIPS'26, 
+- Computer Architecture & Integrated Circuit: **[HPCA](https://arxiv.org/abs/2511.07665)**'26, **[TCSVT](../papers/TCSVT.pdf)**'24, **[TCAS-II](../papers/TCAS-II.pdf)**'24, ISSCC'25, ICCAD'23, IOT-J'23, TCAS-I'21
+- AI/ML & System:  **ICME'25**, 2*NeurIPS'26, 
 - Survey: AAAI-SSS'25 (Best paper award)
 - Under Review: **DAC'26**, **CSUR'26**
 

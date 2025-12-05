@@ -39,7 +39,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology.
 
 # 🔥 News
-- *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://arxiv.org/abs/2511.07665) has been accepted by HPCA 26! Cheers!
+- *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://arxiv.org/abs/2511.07665) has been accepted by HPCA 26! Codes are released at [link](https://github.com/Yuzhe-Fu/FractalCloud).
 - *2025.09*: &nbsp;(NeurIPS'26) [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and [KVCOMM](https://arxiv.org/abs/2510.12872) have been accepted by NeurIPS 26! Congrats!
 - *2025.06*: &nbsp;(PhD Journey) Finish my Reasearch Initial Project Defense ✅, which is the first milestone in my PhD journey!
 - *2025.03*: &nbsp;(**ICME'25**) "[SpeechPrune](https://speechprune.github.io/)" has been accepted by IEEE ICME 25 (Oral, Top 15% in submission)!
@@ -65,7 +65,7 @@ E-mail: yuzhe.fu@duke.edu
 **2026**, *IEEE International Symposium on High-Performance Computer Architecture (accepted)*
 
 
-[[pdf](https://arxiv.org/pdf/2511.07665)]
+[[pdf](https://arxiv.org/pdf/2511.07665)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)]
 <details>
 <summary>Abstract</summary>
 Three-dimensional (3D) point clouds are increasingly used in applications such as autonomous driving, robotics, and virtual reality (VR). Point-based neural networks (PNNs) have demonstrated strong performance in point cloud analysis, originally targeting small-scale inputs. However, as PNNs evolve to process large-scale point clouds with hundreds of thousands of points, all-to-all computation and global memory access in point cloud processing introduce substantial overhead, causing O(n2) computational complexity and memory traffic where 

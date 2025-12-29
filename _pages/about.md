@@ -80,7 +80,7 @@ n is the number of points. Existing accelerators, primarily optimized for small-
 
 [SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval](https://speechprune.github.io/)
 
-Yueqian Lin#, **<u>Yuzhe Fu</u>**, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Helen" Li, Yiran Chen.
+Yueqian Lin#, **<u>Yuzhe Fu#</u>**, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Helen" Li, Yiran Chen.
 
 **2025**, *IEEE International Conference on Multimedia & Expo* (# with equal contribution)
 

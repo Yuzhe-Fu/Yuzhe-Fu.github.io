@@ -108,6 +108,18 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.badge-inline {
+    display: inline-block;
+    padding: 0.2em 0.6em;
+    color: white;
+    background-color: #00369f;
+    font-size: 0.85em;
+    font-weight: normal;
+    border-radius: 3px;
+    margin-right: 0.5em;
+    vertical-align: middle;
+}
+
 /* ===== debug: hide images for no-image papers ===== */
 .paper-box.no-image .paper-box-image {
   display: none !important;

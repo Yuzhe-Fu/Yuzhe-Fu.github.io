@@ -109,10 +109,6 @@ h1:before, .anchor:before {
 }
 
 /* ===== debug: hide images for no-image papers ===== */
-.paper-box.no-image {
-  border: 5px solid red !important;
-}
-
 .paper-box.no-image .paper-box-image {
   display: none !important;
 }

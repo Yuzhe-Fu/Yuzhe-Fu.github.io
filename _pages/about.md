@@ -140,139 +140,20 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 - **ISSCC'25** [Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/abstract/document/10904703). Changchun Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, Hailong Jiao. 2025, *International Solid-State Circuits Conference (ISSCC)* [[pdf](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf)]
 
+- **NeurIPS'26** [Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281). Qinsi Wang, J. Ke, H. Ye, Y. Liu, **<u>Yuzhe Fu</u>**, J. Zhang, K. Keutzer, C. Xu, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2506.02281)], [[codes](https://github.com/wangqinsi1/GAINRL/tree/main)]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC'25</div><img src='images/ISSCC-chip.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **NeurIPS'26** [KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/pdf/2510.12872). Hancheng Ye, Z. Gao, M. Ma, Q. Wang, **<u>Yuzhe Fu</u>**, M. Chung, Y. Lin, Z. Liu, J. Zhang, D. Zhuo, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2510.12872)], [[codes](https://github.com/FastMAS/KVCOMM)]
 
-[Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/abstract/document/10904703)
+- **ArXiv'25** [Hippomm: Hippocampal-inspired multimodal memory for long audiovisual event understanding](https://arxiv.org/pdf/2504.10739). Yueqian Lin, Q. Wang, H. Ye, **<u>Yuzhe Fu</u>**, Hai Li, and Yiran Chen. 2025, *ArXiv Preprint* [[pdf](https://arxiv.org/pdf/2504.10739)], [[codes](https://github.com/linyueqian/HippoMM)]
 
-Changchun Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, Hailong Jiao.
+- **AAAI-SSS'25 (Best Paper Award)** [GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices](https://arxiv.org/pdf/2502.15816). M. Navardi, R. Aalishah, **<u>Yuzhe Fu</u>**, Y. Lin, Hai Li, Yiran Chen and Tinoosh Mohsenin. 2025, *AAAI Spring Symposium Series (AAAI SSS)* [[pdf](https://arxiv.org/pdf/2502.15816)], [[codes](https://github.com/Yuzhe-Fu/GenAI-at-the-Edge)]
 
-**2025**, *International Solid-State Circuits Conference (ISSCC)* 
-[[pdf](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf)]
+- **ICCAD'23** [An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704). C. Zhou, **<u>Yuzhe Fu</u>**, M. Liu, S. Qiu, G. Li, Y, He, Hailong Jiao. 2023, *IEEE/ACM International Conference On Computer Aided Design* [[pdf](../papers/ICCAD.pdf)], [[YouTube](https://youtu.be/3Yw3-jFeRaE)]
 
-<details>
-<summary>Abstract</summary>
-  Three-dimensional (3D) point clouds are increasingly deployed across various emerging fields, such as autonomous driving, robots, drones, and virtual reality (VR) [1]–[6]. Point-based point-cloud neural networks (PNNs) [3]–[6] have demonstrated superior performance in point-cloud analysis, compared to both sparse 3D convolution-based networks [7], [8] and graph-based convolutional neural networks [9], [10]. Due to the high computational complexity, low parallelism, and frequent irregular external memory accesses, deploying PNNs in hardware is a great challenge. PNN hardware accelerators have been developed [11]–[20]. However, three key challenges remain unsolved in these accelerators, as illustrated in Fig. 23.4.1. 1) The inherent farthest point sampling (FPS) features serial computation and suffers from quadratic growth in inference latency with rising point counts. The existing uniform block-wise FPS techniques [13], [21] fail to achieve a well-balanced block segmentation, due to a typically non-uniform point distribution. 2) A large amount of redundant operations exist for both discarded points (DPs) and retained points (RPs) in FPS. These operations exist in the sampling operations of RPs ① as well as grouping ② convolution ③, and aggregation ④ for DPs, introducing unnecessary energy and latency costs. 3) The irregular memory accesses in the aggregation operation cause significant latency penalties. Channel-wise aggregation in [11] relieves irregularity, yet is unsuitable for large-scale point clouds, as the external memory access of features and the neighbor index table (NIT) is quadratically increased due to the iterative loading of features or the NIT.
-</details>
-</div>
-</div>
+- **IoTJ'23** [Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/document/10224248). C. Zhou, M. Liu, S. Qiu, X. Cao, **<u>Yuzhe Fu</u>**, Y. He, Hailong Jiao. 2023, *IEEE Internet of Things Journal* [[pdf](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf)]
 
+- **TCAS-I'21** [A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253). P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An. 2021, *IEEE Transactions on Circuits and Systems I: Regular Papers* [[pdf](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/AnglesDontLie.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281)
-
-Qinsi Wang, J. Ke, H. Ye, Y. Liu, **<u>Yuzhe Fu</u>**, J. Zhang, K. Keutzer, C. Xu, and Yiran Chen
-
-**2026**, *NeurIPS* [[codes](https://github.com/wangqinsi1/GAINRL/tree/main)]
-
-<details>
-<summary>Abstract</summary>
-Current Reinforcement Fine-tuning (RFT) paradigms for Large Language Models (LLMs) suffer from sample inefficiency due to the redundant exposure of identical queries under uniform data sampling. While previous work has explored curriculum learning via heuristic difficulty metrics, these strategies exhibit limitations by neglecting the intrinsic learning signals generated by the model itself, thus leading to suboptimal training regimes. In this paper, we identify a model-inherent signal termed angle concentration that effectively reflects an LLM's capacity to learn from specific data. We theoretically and empirically demonstrate a correlation between the angular distribution of token hidden state vectors and the resulting gradient, revealing a learning preference for data exhibiting higher angle concentration. Inspired by this finding, we propose GAIN-RL, a Gradient-driven Angle-Informed Navigated RL framework. By leveraging the model's intrinsic angle concentration signal, GAIN-RL dynamically selects training data in each epoch, ensuring consistently impactful gradient updates and thus significantly enhancing overall training efficiency. Empirical evaluations show that GAIN-RL (GRPO) achieves over a 2.5× acceleration in training efficiency across diverse mathematical and coding tasks and varying model scales. Furthermore, GAIN-RL (GRPO)'s efficient sampling yields data-efficient training, achieving better performance with half the original data compared to vanilla GRPO with full training data. 
-  
-Code is realsed at https://github.com/wangqinsi1/GAINRL/tree/main.
-</details>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/KVCOMM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/pdf/2510.12872)
-Hancheng Ye, Z. Gao, M. Ma, Q. Wang, **<u>Yuzhe Fu</u>**, M. Chung, Y. Lin, Z. Liu, J. Zhang, D. Zhuo, and Yiran Chen
-
-**2026**, *NeurIPS* [[codes](https://github.com/FastMAS/KVCOMM)]
-
-<details>
-<summary>Abstract</summary>
-Multi-agent large language model (LLM) systems are increasingly adopted for complex language processing tasks that require communication and coordination among agents. However, these systems often suffer substantial overhead from repeated reprocessing of overlapping contexts across agents. In typical pipelines, once an agent receives a message from its predecessor, the full context-including prior turns-must be reprocessed from scratch, leading to inefficient processing. While key-value (KV) caching is an effective solution for avoiding redundant computation in single-agent settings where prefixes remain unchanged, it cannot be directly reused in multi-agent scenarios due to diverging prefixes introduced by agent-specific context extensions. We identify that the core challenge lies in the offset variance of KV-caches across agents. To address this, we propose KVCOMM, a training-free framework that enables efficient prefilling in multi-agent inference by reusing KV-caches and aligning cache offsets of overlapping contexts under diverse prefix contexts. KVCOMM estimates and adjusts KV-caches for shared content by referencing a pool of cached examples—termed anchors—that store observed cache deviations under varying prefixes. The anchor pool is maintained and updated online, allowing dynamic adaptation to distinct user requests and context structures. KVCOMM achieves over 70% reuse rate across diverse multi-agent workloads, including retrieval-augmented generation, math reasoning, and collaborative coding tasks, all without quality degradation. Particularly, when each fully-connected agent receives 1K input tokens with 512 prefix tokens and 512 output tokens under a five-agent setting, KVCOMM achieves up to 7.8×speedup compared to the standard prefill pipeline, reducing TTFT from 430ms to 55ms.
-
-Code is available at https://github.com/FastMAS/KVCOMM.
-</details>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/hipp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Hippomm: Hippocampal-inspired multimodal memory for long audiovisual event understanding](https://arxiv.org/pdf/2504.10739)
-
-Yueqian Lin, Q. Wang, H. Ye, **<u>Yuzhe Fu</u>**, Hai Li, and Yiran Chen
-
-**2025**, *ArXiv Preprint* [[codes](https://github.com/linyueqian/HippoMM)]
-
-<details>
-<summary>Abstract</summary>
-Comprehending extended audiovisual experiences remains a fundamental challenge for computational systems. Current approaches struggle with temporal integration and cross-modal associations that humans accomplish effortlessly through hippocampal-cortical networks. We introduce HippoMM, a biologically-inspired architecture that transforms hippocampal mechanisms into computational advantages for multimodal understanding. HippoMM implements three key innovations: (i) hippocampus-inspired pattern separation and completionspecifically designed for continuous audiovisual streams, (ii) short-to-long term memory consolidation that transforms perceptual details into semantic abstractions, and (iii) cross-modal associative retrieval pathways enabling modality-crossing queries. Unlike existing retrieval systems with static indexing schemes, HippoMM dynamically forms integrated episodic representations through adaptive temporal segmentation and dual-process memory encoding. Evaluations on our challenging HippoVlog benchmark demonstrate that HippoMM significantly outperforms state-of-the-art approaches (78.2% vs. 64.2% accuracy) while providing substantially faster response times (20.4s vs. 112.5s). Our results demonstrate that translating neuroscientific memory principles into computational architectures provides a promising foundation for next-generation multimodal understanding systems. 
-
-The code and benchmark dataset are publicly available at https://github.com/linyueqian/HippoMM.
-</details>
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-SSS'25</div><img src='images/AAAI-SSS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices](https://arxiv.org/pdf/2502.15816)
-
-M. Navardi, R. Aalishah, **<u>Yuzhe Fu</u>**, Y. Lin, Hai Li, Yiran Chen and Tinoosh Mohsenin
-
-**Best Paper Award**🎉, **2025**, *AAAI Spring Symposium Series (AAAI SSS)*
-
-<details>
-<summary>Abstract</summary>
-Generative Artificial Intelligence (GenAI) applies models and algorithms such as Large Language Model (LLM) and Foundation Model (FM) to generate new data. GenAI, as a promising approach, enables advanced capabilities in various applications, including text generation and image processing. In current practice, GenAI algorithms run mainly on the cloud server, leading to high latency and raising security concerns. Consequently, these challenges encourage the deployment of GenAI algorithms directly on edge devices. However, the large size of such models and their significant computational resource requirements pose obstacles when deploying them in resource-constrained systems. This survey provides a comprehensive overview of recent proposed techniques that optimize GenAI for efficient deployment on resource-constrained edge devices. For this aim, this work highlights three main categories for bringing GenAI to the edge: software optimization, hardware optimization, and frameworks. The main takeaways for readers of this survey will be a clear roadmap to design, implement, and refine GenAI systems for real-world implementation on edge devices.
-</details>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD'23</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704)
-
-C. Zhou, **<u>Yuzhe Fu</u>**, M. Liu, S. Qiu, G. Li, Y, He, Hailong Jiao.
-
-**2023**, *IEEE/ACM International Conference On Computer Aided Design*
-[[pdf](../papers/ICCAD.pdf)][[YouTube](https://youtu.be/3Yw3-jFeRaE)]
-<details>
-<summary>Abstract</summary>
-  Three-dimensional (3D) point cloud has been employed in a wide range of applications recently. As a powerful weapon for point cloud analysis, point-based point cloud neural networks (PNNs) have demonstrated superior performance with less computation complexity and parameters, compared to sparse 3D convolution-based networks and graph-based convolutional neural networks. However, point-based PNNs still suffer from high computational redundancy, large off-chip memory access, and low parallelism in hardware implementation, thereby hindering the applications on edge devices. In this paper, to address these challenges, an energy-efficient 3D point cloud neural network accelerator is proposed for on-chip edge computing. An efficient filter pruning scheme is used to skip the redundant convolution of pruned filters and zero-value feature channels. A block-wise multi-layer perceptron (MLP) fusion method is proposed to increase the on-chip reuse of features, thereby reducing off-chip memory access. A dual-stream blocking technique is proposed for higher parallelism while maintaining inference accuracy. Implemented in an industrial 28-nm CMOS technology, the proposed accelerator achieves an effective energy efficiency of 12.65 TOPS/W and 0.13 mJ/frame energy consumption for PointNeXt-S at 100 MHz, 0.9 V supply voltage, and 8-bit data width. Compared to the state-of-the-art point cloud neural network accelerators, the proposed accelerator enhances the energy efficiency by up to 66.6× and reduces the energy consumption per frame by up to 70.2×.
-</details>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ'23</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/document/10224248)
-
-C. Zhou, M. Liu, S. Qiu, X. Cao, **<u>Yuzhe Fu</u>**, Y. He, Hailong Jiao.
-
-**2023**, *IEEE Internet of Things Journal*
-[[pdf](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf)]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I'21</div><img src='images/tcas-i.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253)
-
-P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.  
-
-**2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
-[[pdf](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)]
-
-</div>
-</div>
 
 # 📃 Patent
 - [A high-precision approximate calculation device for softmax function](https://patents.google.com/patent/CN118733946A/en), **2024**, *CN Patent*, CN118733946B.
@@ -352,3 +233,142 @@ P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.
 # 💻 Internships
 - *2020.07 - 2020.08*, algorithm-hardware development position, National Technology Company[nationstech](https://github.com/), China.
  -->
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSCC'25</div><img src='images/ISSCC-chip.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/abstract/document/10904703)
+
+Changchun Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, Hailong Jiao.
+
+**2025**, *International Solid-State Circuits Conference (ISSCC)* 
+[[pdf](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf)]
+
+<details>
+<summary>Abstract</summary>
+  Three-dimensional (3D) point clouds are increasingly deployed across various emerging fields, such as autonomous driving, robots, drones, and virtual reality (VR) [1]–[6]. Point-based point-cloud neural networks (PNNs) [3]–[6] have demonstrated superior performance in point-cloud analysis, compared to both sparse 3D convolution-based networks [7], [8] and graph-based convolutional neural networks [9], [10]. Due to the high computational complexity, low parallelism, and frequent irregular external memory accesses, deploying PNNs in hardware is a great challenge. PNN hardware accelerators have been developed [11]–[20]. However, three key challenges remain unsolved in these accelerators, as illustrated in Fig. 23.4.1. 1) The inherent farthest point sampling (FPS) features serial computation and suffers from quadratic growth in inference latency with rising point counts. The existing uniform block-wise FPS techniques [13], [21] fail to achieve a well-balanced block segmentation, due to a typically non-uniform point distribution. 2) A large amount of redundant operations exist for both discarded points (DPs) and retained points (RPs) in FPS. These operations exist in the sampling operations of RPs ① as well as grouping ② convolution ③, and aggregation ④ for DPs, introducing unnecessary energy and latency costs. 3) The irregular memory accesses in the aggregation operation cause significant latency penalties. Channel-wise aggregation in [11] relieves irregularity, yet is unsuitable for large-scale point clouds, as the external memory access of features and the neighbor index table (NIT) is quadratically increased due to the iterative loading of features or the NIT.
+</details>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/AnglesDontLie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281)
+
+Qinsi Wang, J. Ke, H. Ye, Y. Liu, **<u>Yuzhe Fu</u>**, J. Zhang, K. Keutzer, C. Xu, and Yiran Chen
+
+**2026**, *NeurIPS* [[codes](https://github.com/wangqinsi1/GAINRL/tree/main)]
+
+<details>
+<summary>Abstract</summary>
+Current Reinforcement Fine-tuning (RFT) paradigms for Large Language Models (LLMs) suffer from sample inefficiency due to the redundant exposure of identical queries under uniform data sampling. While previous work has explored curriculum learning via heuristic difficulty metrics, these strategies exhibit limitations by neglecting the intrinsic learning signals generated by the model itself, thus leading to suboptimal training regimes. In this paper, we identify a model-inherent signal termed angle concentration that effectively reflects an LLM's capacity to learn from specific data. We theoretically and empirically demonstrate a correlation between the angular distribution of token hidden state vectors and the resulting gradient, revealing a learning preference for data exhibiting higher angle concentration. Inspired by this finding, we propose GAIN-RL, a Gradient-driven Angle-Informed Navigated RL framework. By leveraging the model's intrinsic angle concentration signal, GAIN-RL dynamically selects training data in each epoch, ensuring consistently impactful gradient updates and thus significantly enhancing overall training efficiency. Empirical evaluations show that GAIN-RL (GRPO) achieves over a 2.5× acceleration in training efficiency across diverse mathematical and coding tasks and varying model scales. Furthermore, GAIN-RL (GRPO)'s efficient sampling yields data-efficient training, achieving better performance with half the original data compared to vanilla GRPO with full training data. 
+  
+Code is realsed at https://github.com/wangqinsi1/GAINRL/tree/main.
+</details>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/KVCOMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/pdf/2510.12872)
+Hancheng Ye, Z. Gao, M. Ma, Q. Wang, **<u>Yuzhe Fu</u>**, M. Chung, Y. Lin, Z. Liu, J. Zhang, D. Zhuo, and Yiran Chen
+
+**2026**, *NeurIPS* [[codes](https://github.com/FastMAS/KVCOMM)]
+
+<details>
+<summary>Abstract</summary>
+Multi-agent large language model (LLM) systems are increasingly adopted for complex language processing tasks that require communication and coordination among agents. However, these systems often suffer substantial overhead from repeated reprocessing of overlapping contexts across agents. In typical pipelines, once an agent receives a message from its predecessor, the full context-including prior turns-must be reprocessed from scratch, leading to inefficient processing. While key-value (KV) caching is an effective solution for avoiding redundant computation in single-agent settings where prefixes remain unchanged, it cannot be directly reused in multi-agent scenarios due to diverging prefixes introduced by agent-specific context extensions. We identify that the core challenge lies in the offset variance of KV-caches across agents. To address this, we propose KVCOMM, a training-free framework that enables efficient prefilling in multi-agent inference by reusing KV-caches and aligning cache offsets of overlapping contexts under diverse prefix contexts. KVCOMM estimates and adjusts KV-caches for shared content by referencing a pool of cached examples—termed anchors—that store observed cache deviations under varying prefixes. The anchor pool is maintained and updated online, allowing dynamic adaptation to distinct user requests and context structures. KVCOMM achieves over 70% reuse rate across diverse multi-agent workloads, including retrieval-augmented generation, math reasoning, and collaborative coding tasks, all without quality degradation. Particularly, when each fully-connected agent receives 1K input tokens with 512 prefix tokens and 512 output tokens under a five-agent setting, KVCOMM achieves up to 7.8×speedup compared to the standard prefill pipeline, reducing TTFT from 430ms to 55ms.
+
+Code is available at https://github.com/FastMAS/KVCOMM.
+</details>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/hipp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hippomm: Hippocampal-inspired multimodal memory for long audiovisual event understanding](https://arxiv.org/pdf/2504.10739)
+
+Yueqian Lin, Q. Wang, H. Ye, **<u>Yuzhe Fu</u>**, Hai Li, and Yiran Chen
+
+**2025**, *ArXiv Preprint* [[codes](https://github.com/linyueqian/HippoMM)]
+
+<details>
+<summary>Abstract</summary>
+Comprehending extended audiovisual experiences remains a fundamental challenge for computational systems. Current approaches struggle with temporal integration and cross-modal associations that humans accomplish effortlessly through hippocampal-cortical networks. We introduce HippoMM, a biologically-inspired architecture that transforms hippocampal mechanisms into computational advantages for multimodal understanding. HippoMM implements three key innovations: (i) hippocampus-inspired pattern separation and completionspecifically designed for continuous audiovisual streams, (ii) short-to-long term memory consolidation that transforms perceptual details into semantic abstractions, and (iii) cross-modal associative retrieval pathways enabling modality-crossing queries. Unlike existing retrieval systems with static indexing schemes, HippoMM dynamically forms integrated episodic representations through adaptive temporal segmentation and dual-process memory encoding. Evaluations on our challenging HippoVlog benchmark demonstrate that HippoMM significantly outperforms state-of-the-art approaches (78.2% vs. 64.2% accuracy) while providing substantially faster response times (20.4s vs. 112.5s). Our results demonstrate that translating neuroscientific memory principles into computational architectures provides a promising foundation for next-generation multimodal understanding systems. 
+
+The code and benchmark dataset are publicly available at https://github.com/linyueqian/HippoMM.
+</details>
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AAAI-SSS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices](https://arxiv.org/pdf/2502.15816)
+
+M. Navardi, R. Aalishah, **<u>Yuzhe Fu</u>**, Y. Lin, Hai Li, Yiran Chen and Tinoosh Mohsenin
+
+**Best Paper Award**🎉, **2025**, *AAAI Spring Symposium Series (AAAI SSS)*
+
+<details>
+<summary>Abstract</summary>
+Generative Artificial Intelligence (GenAI) applies models and algorithms such as Large Language Model (LLM) and Foundation Model (FM) to generate new data. GenAI, as a promising approach, enables advanced capabilities in various applications, including text generation and image processing. In current practice, GenAI algorithms run mainly on the cloud server, leading to high latency and raising security concerns. Consequently, these challenges encourage the deployment of GenAI algorithms directly on edge devices. However, the large size of such models and their significant computational resource requirements pose obstacles when deploying them in resource-constrained systems. This survey provides a comprehensive overview of recent proposed techniques that optimize GenAI for efficient deployment on resource-constrained edge devices. For this aim, this work highlights three main categories for bringing GenAI to the edge: software optimization, hardware optimization, and frameworks. The main takeaways for readers of this survey will be a clear roadmap to design, implement, and refine GenAI systems for real-world implementation on edge devices.
+</details>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD'23</div><img src='images/ICCAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Energy-Efficient 3D Point Cloud Neural Network Accelerator with Efficient Filter Pruning, MLP Fusion, and Dual-Stream Sampling](https://ieeexplore.ieee.org/document/10323704)
+
+C. Zhou, **<u>Yuzhe Fu</u>**, M. Liu, S. Qiu, G. Li, Y, He, Hailong Jiao.
+
+**2023**, *IEEE/ACM International Conference On Computer Aided Design*
+[[pdf](../papers/ICCAD.pdf)][[YouTube](https://youtu.be/3Yw3-jFeRaE)]
+<details>
+<summary>Abstract</summary>
+  Three-dimensional (3D) point cloud has been employed in a wide range of applications recently. As a powerful weapon for point cloud analysis, point-based point cloud neural networks (PNNs) have demonstrated superior performance with less computation complexity and parameters, compared to sparse 3D convolution-based networks and graph-based convolutional neural networks. However, point-based PNNs still suffer from high computational redundancy, large off-chip memory access, and low parallelism in hardware implementation, thereby hindering the applications on edge devices. In this paper, to address these challenges, an energy-efficient 3D point cloud neural network accelerator is proposed for on-chip edge computing. An efficient filter pruning scheme is used to skip the redundant convolution of pruned filters and zero-value feature channels. A block-wise multi-layer perceptron (MLP) fusion method is proposed to increase the on-chip reuse of features, thereby reducing off-chip memory access. A dual-stream blocking technique is proposed for higher parallelism while maintaining inference accuracy. Implemented in an industrial 28-nm CMOS technology, the proposed accelerator achieves an effective energy efficiency of 12.65 TOPS/W and 0.13 mJ/frame energy consumption for PointNeXt-S at 100 MHz, 0.9 V supply voltage, and 8-bit data width. Compared to the state-of-the-art point cloud neural network accelerators, the proposed accelerator enhances the energy efficiency by up to 66.6× and reduces the energy consumption per frame by up to 70.2×.
+</details>
+</div>
+</div> 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ'23</div><img src='images/IOTJ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sagitta: An Energy-Efficient Sparse 3D-CNN Accelerator for Real-Time 3D Understanding](https://ieeexplore.ieee.org/document/10224248)
+
+C. Zhou, M. Liu, S. Qiu, X. Cao, **<u>Yuzhe Fu</u>**, Y. He, Hailong Jiao.
+
+**2023**, *IEEE Internet of Things Journal*
+[[pdf](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I'21</div><img src='images/tcas-i.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253)
+
+P. Dong, Z. Chen, Z. Li, **<u>Yuzhe Fu</u>**, L. Chen, Fengwei An.  
+
+**2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
+[[pdf](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)]
+
+</div>
+</div>
+
+
+-->

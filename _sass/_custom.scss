@@ -1,3 +1,6 @@
-.paper-box.no-image .paper-box-image {
-  display: none !important;
+// .paper-box.no-image .paper-box-image {
+//   display: none !important;
+// }
+.paper-box.no-image {
+  border: 5px solid red !important;
 }

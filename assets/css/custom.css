@@ -1,0 +1,9 @@
+/* 只对标记为 no-image 的论文隐藏图片 */
+.paper-box.no-image .paper-box-image {
+  display: none;
+}
+
+/* 可选：让纯文字论文更紧凑一点 */
+.paper-box.no-image .paper-box-text {
+  margin-left: 0;
+}

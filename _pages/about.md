@@ -156,7 +156,7 @@ Changchun Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/AnglesDontLie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box no-image'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/AnglesDontLie.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281)

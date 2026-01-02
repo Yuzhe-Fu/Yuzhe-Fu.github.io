@@ -109,15 +109,15 @@ h1:before, .anchor:before {
 }
 
 .badge-inline {
-    display: inline-block;
-    padding: 0.2em 0.6em;
-    color: white;
-    background-color: #00369f;
-    font-size: 0.85em;
-    font-weight: normal;
-    border-radius: 3px;
-    margin-right: 0.5em;
-    vertical-align: middle;
+    display: inline-block !important;
+    padding: 0.2em 0.6em !important;
+    color: white !important;
+    background-color: #00369f !important;
+    font-size: 0.85em !important;
+    font-weight: normal !important;
+    border-radius: 3px !important;
+    margin-right: 0.5em !important;
+    vertical-align: middle !important;
 }
 
 /* ===== debug: hide images for no-image papers ===== */

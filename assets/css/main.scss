@@ -107,3 +107,12 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ===== debug: hide images for no-image papers ===== */
+.paper-box.no-image {
+  border: 5px solid red !important;
+}
+
+.paper-box.no-image .paper-box-image {
+  display: none !important;
+}

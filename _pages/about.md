@@ -65,7 +65,7 @@ E-mail: yuzhe.fu@duke.edu
 **2026**, *IEEE International Symposium on High-Performance Computer Architecture (accepted)*
 
 
-[[pdf](https://arxiv.org/pdf/2511.07665)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/linyueqian/HippoMM?style=social)
+[[pdf](https://arxiv.org/pdf/2511.07665)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
 <details>
 <summary>Abstract</summary>
 Three-dimensional (3D) point clouds are increasingly used in applications such as autonomous driving, robotics, and virtual reality (VR). Point-based neural networks (PNNs) have demonstrated strong performance in point cloud analysis, originally targeting small-scale inputs. However, as PNNs evolve to process large-scale point clouds with hundreds of thousands of points, all-to-all computation and global memory access in point cloud processing introduce substantial overhead, causing O(n2) computational complexity and memory traffic where 
@@ -86,7 +86,7 @@ Yueqian Lin#, **<u>Yuzhe Fu#</u>**, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Hel
 
 Oral, Top 15% in all submissions
 
-[[pdf](../papers/SpeechPrune.pdf)], [[Dataset](https://speechprune.github.io/)] ![GitHub stars](https://img.shields.io/github/stars/speechprune/speechprune?style=social)
+[[pdf](../papers/SpeechPrune.pdf)], [[Dataset](https://speechprune.github.io/)] ![GitHub stars](https://img.shields.io/github/stars/linyueqian/HippoMM?style=social)
 <details>
 <summary>Abstract</summary>
 While current Speech Large Language Models (Speech LLMs) excel at short-form tasks, they struggle with the computational and representational demands of longer audio clips. 

@@ -86,7 +86,7 @@ Yueqian Lin#, **<u>Yuzhe Fu#</u>**, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Hel
 
 Oral, Top 15% in all submissions
 
-[[pdf](../papers/SpeechPrune.pdf)], [[Dataset](https://speechprune.github.io/)], ![GitHub stars](https://img.shields.io/github/stars/speechprune/speechprune?style=social)
+[[pdf](../papers/SpeechPrune.pdf)], [[Dataset](https://speechprune.github.io/)] ![GitHub stars](https://img.shields.io/github/stars/speechprune/speechprune?style=social)
 <details>
 <summary>Abstract</summary>
 While current Speech Large Language Models (Speech LLMs) excel at short-form tasks, they struggle with the computational and representational demands of longer audio clips. 

@@ -86,7 +86,7 @@ Yueqian Lin#, **<u>Yuzhe Fu#</u>**, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Hel
 
 Oral, Top 15% in all submissions
 
-[[pdf](../papers/SpeechPrune.pdf)], [[Dataset](https://speechprune.github.io/)] ![GitHub stars](https://img.shields.io/github/stars/linyueqian/HippoMM?style=social)
+[[pdf](../papers/SpeechPrune.pdf)], [[Dataset](https://speechprune.github.io/)]
 <details>
 <summary>Abstract</summary>
 While current Speech Large Language Models (Speech LLMs) excel at short-form tasks, they struggle with the computational and representational demands of longer audio clips. 
@@ -140,11 +140,11 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 <p markdown="1"><span class="badge-inline">ISSCC'25</span> [Nebula: A 28-nm 109.8 TOPS/W 3D PNN Accelerator Featuring Adaptive Partition, Multi-Skipping, and Block-Wise Aggregation](https://ieeexplore.ieee.org/abstract/document/10904703). Changchun Zhou, T. Huang, Y. Ma, **<u>Yuzhe Fu</u>**, S. Qiu, X. Song, J. Sun, M. Liu, Y. Yang, G. Li, Y. He, Hailong Jiao. 2025, *International Solid-State Circuits Conference (ISSCC)* [[pdf](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf)]</p>
 
-<p markdown="1"><span class="badge-inline">NeurIPS'26</span> [Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281). Qinsi Wang, J. Ke, H. Ye, Y. Liu, **<u>Yuzhe Fu</u>**, J. Zhang, K. Keutzer, C. Xu, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2506.02281)], [[codes](https://github.com/wangqinsi1/GAINRL/tree/main)] ![GitHub stars](https://img.shields.io/github/stars/wangqinsi1/GAINRL?style=social)</p>
+<p markdown="1"><span class="badge-inline">NeurIPS'26</span> [Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281). Qinsi Wang, J. Ke, H. Ye, Y. Liu, **<u>Yuzhe Fu</u>**, J. Zhang, K. Keutzer, C. Xu, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2506.02281)], [[Codes](https://github.com/wangqinsi1/GAINRL/tree/main)] ![GitHub stars](https://img.shields.io/github/stars/wangqinsi1/GAINRL?style=social)</p>
 
-<p markdown="1"><span class="badge-inline">NeurIPS'26</span> [KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/pdf/2510.12872). Hancheng Ye, Z. Gao, M. Ma, Q. Wang, **<u>Yuzhe Fu</u>**, M. Chung, Y. Lin, Z. Liu, J. Zhang, D. Zhuo, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2510.12872)], [[codes](https://github.com/FastMAS/KVCOMM)] ![GitHub stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social)</p>
+<p markdown="1"><span class="badge-inline">NeurIPS'26</span> [KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/pdf/2510.12872). Hancheng Ye, Z. Gao, M. Ma, Q. Wang, **<u>Yuzhe Fu</u>**, M. Chung, Y. Lin, Z. Liu, J. Zhang, D. Zhuo, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2510.12872)], [[Codes](https://github.com/FastMAS/KVCOMM)] ![GitHub stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social)</p>
 
-<p markdown="1"><span class="badge-inline">ArXiv'25</span> [Hippomm: Hippocampal-inspired multimodal memory for long audiovisual event understanding](https://arxiv.org/pdf/2504.10739). Yueqian Lin, Q. Wang, H. Ye, **<u>Yuzhe Fu</u>**, Hai Li, and Yiran Chen. 2025, *ArXiv Preprint* [[pdf](https://arxiv.org/pdf/2504.10739)], [[Dataset](https://github.com/linyueqian/HippoMM)] ![GitHub stars](https://img.shields.io/github/stars/linyueqian/HippoMM?style=social)</p>
+<p markdown="1"><span class="badge-inline">ArXiv'25</span> [Hippomm: Hippocampal-inspired multimodal memory for long audiovisual event understanding](https://arxiv.org/pdf/2504.10739). Yueqian Lin, Q. Wang, H. Ye, **<u>Yuzhe Fu</u>**, Hai Li, and Yiran Chen. 2025, *ArXiv Preprint* [[pdf](https://arxiv.org/pdf/2504.10739)], [[Codes](https://github.com/linyueqian/HippoMM)] ![GitHub stars](https://img.shields.io/github/stars/linyueqian/HippoMM?style=social)</p>
 
 <p markdown="1"><span class="badge-inline">AAAI-SSS'25 (Best Paper Award)</span> [GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices](https://arxiv.org/pdf/2502.15816). M. Navardi, R. Aalishah, **<u>Yuzhe Fu</u>**, Y. Lin, Hai Li, Yiran Chen and Tinoosh Mohsenin. 2025, *AAAI Spring Symposium Series (AAAI SSS)* [[pdf](https://arxiv.org/pdf/2502.15816)]</p>
 

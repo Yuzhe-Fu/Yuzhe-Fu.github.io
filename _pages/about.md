@@ -159,8 +159,8 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 - [A high-precision approximate calculation device for softmax function](https://patents.google.com/patent/CN118733946A/en), **2024**, *CN Patent*, CN118733946B.
 - [Low-power-consumption stereo matching system and method for acquiring depth information](https://worldwide.espacenet.com/patent/search/family/073657313/publication/CN112070821A?q=CN112070821A), **2020**, *CN Patent*, CN112070821A / WO2022021912A1
 
-# 💻 Reviewer
-- Conference: HPCA-AE'26, AAAI'26, ICME'25, AICAS'25,'23, AVSS'25.
+# 💻 Academic Service
+- Conference: HPCA-AE'26, AAAI'26, ICME'26,'25, AICAS'25,'23, AVSS'25.
 - Journal: TCSVT'24, ELL'25,'24.
 - Help to review: ISCA'26,'25, MICRO'25, HPCA'26, DAC'26.
 

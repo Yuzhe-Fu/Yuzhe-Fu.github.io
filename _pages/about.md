@@ -47,7 +47,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2024.10*: &nbsp;(ISSCC'25) "[Nebula](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw)" has been accepted by IEEE ISSCC 25!
 - *2024.08*: &nbsp;(PhD Journey) Starting my PhD journey — wish me luck🍀!
 - *2024.04*: &nbsp;(**TCSVT'24**) "[SoftAct](https://ieeexplore.ieee.org/document/10495359)" has been accepted by IEEE TCSVT (JCR-Q1)!
-- *2024.02*: &nbsp;(**TCAS-II'24**) "[Multi-Stream FPS accelerator](https://ieeexplore.ieee.org/document/10430381)" has been accepted by IEEE TCAS-II (JCR-Q2)!
+- *2024.02*: &nbsp;(**TCAS-II'24**) "[Multi-Stream FPS accelerator](https://ieeexplore.ieee.org/document/10430381)" has been accepted by IEEE TCAS-II (JCR-Q1)!
 - *2023.08*: &nbsp;(IOTJ'23) "[Sagitta](https://ieeexplore.ieee.org/document/10224248)" has been accepted by IEEE IOTJ (JCR-Q1)!
 - *2023.07*: &nbsp;(ICCAD'23) "[PNN Accelerator](https://ieeexplore.ieee.org/document/10323704)" has been accepted by IEEE/ACM ICCAD 23!
 - *2021*: &nbsp;(TCAS-I'21)  "[Stereo-depth processor](https://ieeexplore.ieee.org/abstract/document/9505253)" has been accepted by TCAS-I (JCR-Q1)!

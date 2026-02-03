@@ -63,10 +63,10 @@ E-mail: yuzhe.fu@duke.edu
 
 **<u>Yuzhe Fu</u>**, C. Zhou, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo, Hai "Helen" Li, Yiran Chen.
 
-**2026**, *IEEE International Symposium on High-Performance Computer Architecture (accepted)*
+**2026**, *IEEE International Symposium on High-Performance Computer Architecture*
 
 
-[[pdf](https://arxiv.org/pdf/2511.07665)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
+[[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud_HPCA26.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
 <details>
 <summary>Abstract</summary>
 Three-dimensional (3D) point clouds are increasingly used in applications such as autonomous driving, robotics, and virtual reality (VR). Point-based neural networks (PNNs) have demonstrated strong performance in point cloud analysis, originally targeting small-scale inputs. However, as PNNs evolve to process large-scale point clouds with hundreds of thousands of points, all-to-all computation and global memory access in point cloud processing introduce substantial overhead, causing O(n2) computational complexity and memory traffic where 

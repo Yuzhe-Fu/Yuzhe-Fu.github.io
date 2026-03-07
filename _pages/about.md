@@ -57,6 +57,25 @@ E-mail: yuzhe.fu@duke.edu
 
 # 📝 Main Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC'26</div><img src='images/FlashFPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching
+
+**<u>Yuzhe Fu</u>**, H. Ye, C. Guo, J. Zhang, Q. Wang, Y. Lin, C. Zhou, Hai "Helen" Li, Yiran Chen.
+**2026**, *IEEE/ACM Design Automation Conference (DAC'26)* (Accepted)
+
+<!-- [[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social) -->
+<details>
+<summary>Abstract</summary>
+Point-based Neural Networks (PNNs) have become a key approach for point cloud processing. However, a core operation in these models, Farthest Point Sampling (FPS), often introduces significant inference latency, especially for large-scale processing. Despite existing CUDA- and hardware-level optimizations, FPS remains a major bottleneck due to exhaustive computations across multiple network layers in PNNs, which hinders scalability.Through systematic analysis, we identify three substantial redundancies in FPS, including unnecessary full-cloud computations, redundant late-stage iterations, and predictable inter-layer outputs that make later FPS computations avoidable. To address these, we propose FlashFPS, a hardware-agnostic, plug-and-play framework for FPS acceleration, composed of FPS-Prune and FPS-Cache. FPS-Prune introduces candidate pruning and iteration pruning to reduce redundant computations in FPS while preserving sampling quality, and FPS-Cache eliminates layer-wise redundancy via cache-and-reuse. Integrated into existing CUDA libraries and state-of-the-art PNN accelerators, FlashFPS achieves 5.16× speedup over the standard CUDA baseline on GPU and 2.69× on PNN accelerators, with negligible accuracy loss, enabling efficient and scalable PNN inference.
+</details>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA'26</div><img src='images/FractalCloud.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,7 +83,7 @@ E-mail: yuzhe.fu@duke.edu
 
 **<u>Yuzhe Fu</u>**, C. Zhou, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo, Hai "Helen" Li, Yiran Chen.
 
-**2026**, *IEEE International Symposium on High-Performance Computer Architecture*
+**2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA'26)*
 
 
 [[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
@@ -84,7 +103,7 @@ n is the number of points. Existing accelerators, primarily optimized for small-
 
 Yueqian Lin#, **<u>Yuzhe Fu#</u>**, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Helen" Li, Yiran Chen.
 
-**2025**, *IEEE International Conference on Multimedia & Expo* (# with equal contribution)
+**2025**, *IEEE International Conference on Multimedia & Expo (ICME'25)* (# with equal contribution)
 
 Oral, Top 15% in all submissions
 
@@ -109,7 +128,7 @@ SpeechPrune can maintain network performance even at a pruning level of 80%. Thi
 
 **<u>Yuzhe Fu</u>**, C. Zhou, T. Huang, E. Han, Y. He, Hailong Jiao.
 
-**2024**, *IEEE Transactions on Circuits and Systems for Video Technology*
+**2024**, *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*
 
 [[pdf](../papers/TCSVT.pdf)]
 <details>
@@ -127,7 +146,7 @@ SpeechPrune can maintain network performance even at a pruning level of 80%. Thi
 
 Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
-**2024**, *IEEE Transactions on Circuits and Systems II: Express Briefs* (# with equal contribution)
+**2024**, *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)* (# with equal contribution)
 
 [[pdf](../papers/TCAS-II.pdf)]
 <details>

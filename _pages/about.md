@@ -41,7 +41,7 @@ E-mail: yuzhe.fu@duke.edu
 # 🔥 News
 - *2026.02*: &nbsp;(**DAC'26**) **FlashFPS** has been accepted by DAC 26! Codes will be released soon!
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://openreview.net/pdf?id=CezA1eLa1Y) has been accepted by ICLR 26! Congrats!
-- *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://arxiv.org/abs/2511.07665) has been accepted by HPCA 26! Codes are released at [github](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
+- *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! Codes are released at [github](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
 - *2025.09*: &nbsp;(NeurIPS'26) [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and [KVCOMM](https://arxiv.org/abs/2510.12872) have been accepted by NeurIPS 26! Congrats!
 - *2025.06*: &nbsp;(PhD Journey) Finish my Reasearch Initial Project Defense ✅, which is the first milestone in my PhD journey!
 - *2025.03*: &nbsp;(**ICME'25**) "[SpeechPrune](https://speechprune.github.io/)" has been accepted by IEEE ICME 25 (Oral, Top 15% in submission)!
@@ -79,14 +79,14 @@ Point-based Neural Networks (PNNs) have become a key approach for point cloud pr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA'26</div><img src='images/FractalCloud.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665)
+[FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://ieeexplore.ieee.org/document/11408589)
 
 **<u>Yuzhe Fu</u>**, C. Zhou, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo, Hai "Helen" Li, Yiran Chen.
 
 **2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA'26)*
 
 
-[[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
+[[pdf](https://ieeexplore.ieee.org/document/11408589)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
 <details>
 <summary>Abstract</summary>
 Three-dimensional (3D) point clouds are increasingly used in applications such as autonomous driving, robotics, and virtual reality (VR). Point-based neural networks (PNNs) have demonstrated strong performance in point cloud analysis, originally targeting small-scale inputs. However, as PNNs evolve to process large-scale point clouds with hundreds of thousands of points, all-to-all computation and global memory access in point cloud processing introduce substantial overhead, causing O(n2) computational complexity and memory traffic where 

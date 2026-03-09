@@ -63,6 +63,7 @@ E-mail: yuzhe.fu@duke.edu
 FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching
 
 **<u>Yuzhe Fu</u>**, H. Ye, C. Guo, J. Zhang, Q. Wang, Y. Lin, C. Zhou, Hai "Helen" Li, Yiran Chen.
+
 **2026**, *IEEE/ACM Design Automation Conference (DAC'26)* (Accepted)
 
 <!-- [[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social) -->

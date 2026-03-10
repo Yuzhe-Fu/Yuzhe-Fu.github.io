@@ -64,7 +64,7 @@ FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pru
 
 **<u>Yuzhe Fu</u>**, H. Ye, C. Guo, J. Zhang, Q. Wang, Y. Lin, C. Zhou, Hai "Helen" Li, Yiran Chen.
 
-**2026**, *IEEE/ACM Design Automation Conference (DAC'26)* (Accepted)
+**2026**, *IEEE/ACM Design Automation Conference (DAC'26)* (Accepted, Acceptance Rate: 22.3%)
 
 <!-- [[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social) -->
 <details>
@@ -84,7 +84,7 @@ Point-based Neural Networks (PNNs) have become a key approach for point cloud pr
 
 **<u>Yuzhe Fu</u>**, C. Zhou, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo, Hai "Helen" Li, Yiran Chen.
 
-**2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA'26)*
+**2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA'26)* Acceptance Rate: 19.8%)
 
 
 [[pdf](https://ieeexplore.ieee.org/document/11408589)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)

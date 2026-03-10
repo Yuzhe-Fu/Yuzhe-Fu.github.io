@@ -64,7 +64,9 @@ FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pru
 
 **<u>Yuzhe Fu</u>**, H. Ye, C. Guo, J. Zhang, Q. Wang, Y. Lin, C. Zhou, Hai "Helen" Li, Yiran Chen.
 
-**2026**, *IEEE/ACM Design Automation Conference (DAC'26)* (Accepted, Acceptance Rate: 22.3%)
+**2026**, *IEEE/ACM Design Automation Conference (DAC'26)* (Accepted)
+
+Acceptance Rate: 22.3%
 
 <!-- [[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social) -->
 <details>
@@ -84,7 +86,9 @@ Point-based Neural Networks (PNNs) have become a key approach for point cloud pr
 
 **<u>Yuzhe Fu</u>**, C. Zhou, H. Ye, B. Duan, Q. Huang, C. Wei, C. Guo, Hai "Helen" Li, Yiran Chen.
 
-**2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA'26)* Acceptance Rate: 19.8%)
+**2026**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA'26)* 
+
+Acceptance Rate: 19.8%
 
 
 [[pdf](https://ieeexplore.ieee.org/document/11408589)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
@@ -108,7 +112,7 @@ Yueqian Lin#, **<u>Yuzhe Fu#</u>**, J. Zhang, Y. Liu, J. Zhang, J. Sun, Hai "Hel
 
 Oral, Top 15% in all submissions
 
-[[pdf](../papers/SpeechPrune.pdf)], [[Dataset](https://speechprune.github.io/)]
+[[pdf](../papers/SpeechPrune.pdf)], [[Dataset](https://speechprune.github.io/)] ![GitHub stars](https://img.shields.io/github/stars/linyueqian/SPIRAL_Dataset?style=social)
 <details>
 <summary>Abstract</summary>
 While current Speech Large Language Models (Speech LLMs) excel at short-form tasks, they struggle with the computational and representational demands of longer audio clips. 
@@ -131,7 +135,7 @@ SpeechPrune can maintain network performance even at a pruning level of 80%. Thi
 
 **2024**, *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*
 
-[[pdf](../papers/TCSVT.pdf)]
+[[pdf](https://ieeexplore.ieee.org/document/10495359)]
 <details>
 <summary>Abstract</summary>
   Transformer-based deep learning networks are revolutionizing our society. The convolution and attention co-designed (CAC) Transformers have demonstrated superior performance compared to the conventional Transformer-based networks. However, CAC Transformer networks contain various nonlinear functions, such as softmax and complex activation functions, which require high precision hardware design yet typically with significant cost in area and power consumption. To address these challenges, SoftAct, a compact and high-precision algorithm-hardware co-designed architecture, is proposed to implement both softmax and nonlinear activation functions in CAC Transformer accelerators. An improved softmax algorithm with penalties is proposed to maintain precision in hardware. A stage-wise full zero detection method is developed to skip redundant computation in softmax. A compact and reconfigurable architecture with a symmetrically designed linear fitting module is proposed to achieve nonlinear functions. The SoftAct architecture is designed in an industrial 28-nm CMOS technology with the MobileViT-xxs network as the benchmark. Compared with the state of the art, SoftAct improves up to 5.87% network accuracy, 153.2× area efficiency, and 1435× overall efficiency.
@@ -149,7 +153,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 **2024**, *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)* (# with equal contribution)
 
-[[pdf](../papers/TCAS-II.pdf)]
+[[pdf](https://ieeexplore.ieee.org/document/10430381)]
 <details>
 <summary>Abstract</summary>
   Point cloud is increasingly used in a variety of applications. Farthest Point Sampling (FPS) is typically employed for down-sampling to reduce the size of point cloud and enhance the representational capability by preserving contour points in point cloud analysis. However, due to low parallelism and high computational complexity, high energy consumption and long latency are caused, which becomes a bottleneck of hardware acceleration. In this brief, we propose an adjustable multi-stream block-wise FPS algorithm, adjusted by four configurable parameters, according to hardware and accuracy requirements. A unified hardware architecture with one parameter is designed to implement the adjustable multi-stream block-wise FPS algorithm. Furthermore, we present a rapid searching algorithm to select the optimal configuration of the five parameters. Designed in an industrial 28-nm CMOS technology, the proposed hardware architecture achieves a latency of 0.005 (1.401) ms and a frame energy consumption of 0.09 (27.265) µJ/frame for 1 k (24 k) input points at 200 MHz and 0.9 V supply voltage. Compared to the state of the art, the proposed hardware architecture reduces the latency by up to 99.9%, saves the energy consumption by up to 99.5%, and improves the network accuracy by up to 9.34%.

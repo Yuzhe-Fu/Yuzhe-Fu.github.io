@@ -39,6 +39,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology.
 
 # 🔥 News
+- *2026.03*: &nbsp;(ISCA'26) Two papers have been accepted by ISCA 26! Congrats!
 - *2026.02*: &nbsp;(**DAC'26**) **FlashFPS** has been accepted by DAC 26! Codes will be released soon!
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://openreview.net/pdf?id=CezA1eLa1Y) has been accepted by ICLR 26! Congrats!
 - *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! Codes are released at [github](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)

@@ -21,7 +21,7 @@ redirect_from:
 
 **Publications Overview:** (Bold indicates first-author work)
 - Computer Architecture & Integrated Circuit: **[HPCA'26](https://github.com/Yuzhe-Fu/FractalCloud)**, **[TCSVT'24](../papers/TCSVT.pdf)**, **[TCAS-II'24](../papers/TCAS-II.pdf)**, ISCA'26, [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
-- Efficient ML/AI Algorithms: **DAC'26**, **[ICME'25](https://speechprune.github.io/)**, CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
+- Efficient ML/AI Algorithms: **DAC'26**, **[ICME'25](https://speechprune.github.io/)**, [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
 - Survey: [AAAI-SSS'25](https://arxiv.org/pdf/2502.15816) (Best paper award)
 - Under Review: **CSUR'26**
 

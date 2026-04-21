@@ -40,7 +40,7 @@ E-mail: yuzhe.fu@duke.edu
 
 # 🔥 News
 - *2026.03*: &nbsp;(ISCA'26) Two papers have been accepted by ISCA 26! Congrats!
-- *2026.02*: &nbsp;(**DAC'26**) **FlashFPS** has been accepted by DAC 26! Codes will be released soon!
+- *2026.02*: &nbsp;(**DAC'26**) **FlashFPS** has been accepted by DAC 26! Codes are released at [github](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://openreview.net/pdf?id=CezA1eLa1Y) has been accepted by ICLR 26! Congrats!
 - *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! Codes are released at [github](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
 - *2025.09*: &nbsp;(NeurIPS'26) [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and [KVCOMM](https://arxiv.org/abs/2510.12872) have been accepted by NeurIPS 26! Congrats!
@@ -68,6 +68,8 @@ FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pru
 **2026**, *IEEE/ACM Design Automation Conference (DAC'26)* (Accepted)
 
 Acceptance Rate: 22.3%
+
+[[pdf](http://arxiv.org/abs/2604.17720)], [[code](https://github.com/Yuzhe-Fu/FlashFPS)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 
 <!-- [[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social) -->
 <details>

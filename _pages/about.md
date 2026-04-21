@@ -43,7 +43,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2026.02*: &nbsp;(**DAC'26**) **FlashFPS** has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://openreview.net/pdf?id=CezA1eLa1Y) has been accepted by ICLR 26! Congrats!
 - *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! [Codes](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
-- *2025.09*: &nbsp;(NeurIPS'26) [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and [KVCOMM](https://arxiv.org/abs/2510.12872) have been accepted by NeurIPS 26! Congrats!
+- *2025.09*: &nbsp;(NeurIPS'26) [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main)![GitHub stars](https://img.shields.io/github/stars/wangqinsi1/GAINRL?style=social) and [KVCOMM](https://arxiv.org/abs/2510.12872)![GitHub stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social) have been accepted by NeurIPS 26! Congrats!
 - *2025.06*: &nbsp;(PhD Journey) Finish my Reasearch Initial Project Defense ✅, which is the first milestone in my PhD journey!
 - *2025.03*: &nbsp;(**ICME'25**) "[SpeechPrune](https://speechprune.github.io/)" has been accepted by ICME 25 (Oral, Top 15%)! [Dataset](https://github.com/linyueqian/SPIRAL_Dataset). ![GitHub stars](https://img.shields.io/github/stars/linyueqian/SPIRAL_Dataset?style=social)
 - *2025.02*: &nbsp;(AAAI-SSS'25, Best Paper Award) "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816)" has been accepted by AAAI-SSS 25!

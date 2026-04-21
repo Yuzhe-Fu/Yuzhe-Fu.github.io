@@ -40,23 +40,23 @@ E-mail: yuzhe.fu@duke.edu
 
 # 🔥 News
 - *2026.03*: &nbsp;(ISCA'26) Two papers have been accepted by ISCA 26! Congrats!
-- *2026.02*: &nbsp;(**DAC'26**) **FlashFPS** has been accepted by DAC 26! Codes are released at [github](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
+- *2026.02*: &nbsp;(**DAC'26**) **FlashFPS** has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://openreview.net/pdf?id=CezA1eLa1Y) has been accepted by ICLR 26! Congrats!
-- *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! Codes are released at [github](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
+- *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! [Codes](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
 - *2025.09*: &nbsp;(NeurIPS'26) [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main) and [KVCOMM](https://arxiv.org/abs/2510.12872) have been accepted by NeurIPS 26! Congrats!
 - *2025.06*: &nbsp;(PhD Journey) Finish my Reasearch Initial Project Defense ✅, which is the first milestone in my PhD journey!
-- *2025.03*: &nbsp;(**ICME'25**) "[SpeechPrune](https://speechprune.github.io/)" has been accepted by IEEE ICME 25 (Oral, Top 15% in submission)!
+- *2025.03*: &nbsp;(**ICME'25**) "[SpeechPrune](https://speechprune.github.io/)" has been accepted by ICME 25 (Oral, Top 15%)! [Dataset](https://github.com/linyueqian/SPIRAL_Dataset). ![GitHub stars](https://img.shields.io/github/stars/linyueqian/SPIRAL_Dataset?style=social)
 - *2025.02*: &nbsp;(AAAI-SSS'25, Best Paper Award) "[GenAI at the Edge](https://arxiv.org/pdf/2502.15816)" has been accepted by AAAI-SSS 25!
-- *2024.10*: &nbsp;(ISSCC'25) "[Nebula](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw)" has been accepted by IEEE ISSCC 25!
+- *2024.10*: &nbsp;(ISSCC'25) "[Nebula](https://ieeexplore.ieee.org/abstract/document/10904703?casa_token=z0z_h4_dJHgAAAAA:24_jLlNXCrjlmBK57nut2rHdoUI_62Zh22gIqqevu32hGtFOewRoV5aSN4LtVdAJD60rZu8stw)" has been accepted by ISSCC 25!
 - *2024.08*: &nbsp;(PhD Journey) Starting my PhD journey — wish me luck🍀!
 - *2024.04*: &nbsp;(**TCSVT'24**) "[SoftAct](https://ieeexplore.ieee.org/document/10495359)" has been accepted by IEEE TCSVT (JCR-Q1)!
 - *2024.02*: &nbsp;(**TCAS-II'24**) "[Multi-Stream FPS accelerator](https://ieeexplore.ieee.org/document/10430381)" has been accepted by IEEE TCAS-II (JCR-Q1)!
 - *2023.08*: &nbsp;(IOTJ'23) "[Sagitta](https://ieeexplore.ieee.org/document/10224248)" has been accepted by IEEE IOTJ (JCR-Q1)!
-- *2023.07*: &nbsp;(ICCAD'23) "[PNN Accelerator](https://ieeexplore.ieee.org/document/10323704)" has been accepted by IEEE/ACM ICCAD 23!
+- *2023.07*: &nbsp;(ICCAD'23) "[PNN Accelerator](https://ieeexplore.ieee.org/document/10323704)" has been accepted by ICCAD 23!
 - *2021*: &nbsp;(TCAS-I'21)  "[Stereo-depth processor](https://ieeexplore.ieee.org/abstract/document/9505253)" has been accepted by TCAS-I (JCR-Q1)!
 - **Bold**: Main paper. Others: Collaborative papers.
 
-# 📝 Main Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC'26</div><img src='images/FlashFPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

@@ -21,7 +21,7 @@ redirect_from:
 
 **Publications Overview:** (Bold indicates first-author work)
 - Computer Architecture & Integrated Circuit: **[HPCA'26](https://github.com/Yuzhe-Fu/FractalCloud)**, **[TCSVT'24](../papers/TCSVT.pdf)**, **[TCAS-II'24](../papers/TCAS-II.pdf)**, ISCA'26, [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
-- Efficient ML/AI Algorithms: **DAC'26**, **[ICME'25](https://speechprune.github.io/)**, [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
+- Efficient ML/AI Algorithms: **[DAC'26](https://arxiv.org/abs/2604.17720)**, **[ICME'25](https://speechprune.github.io/)**, [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
 - Survey: [AAAI-SSS'25](https://arxiv.org/pdf/2502.15816) (Best paper award)
 - Under Review: **CSUR'26**
 
@@ -40,7 +40,7 @@ E-mail: yuzhe.fu@duke.edu
 
 # 🔥 News
 - *2026.03*: &nbsp;(ISCA'26) Two papers have been accepted by ISCA 26! Congrats!
-- *2026.02*: &nbsp;(**DAC'26**) **FlashFPS** has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
+- *2026.02*: &nbsp;(**DAC'26**) [FlashFPS](https://arxiv.org/abs/2604.17720) has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://openreview.net/pdf?id=CezA1eLa1Y) has been accepted by ICLR 26! Congrats!
 - *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! [Codes](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
 - *2025.09*: &nbsp;(NeurIPS'26) [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main)![GitHub stars](https://img.shields.io/github/stars/wangqinsi1/GAINRL?style=social) and [KVCOMM](https://arxiv.org/abs/2510.12872)![GitHub stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social) have been accepted by NeurIPS 26! Congrats!

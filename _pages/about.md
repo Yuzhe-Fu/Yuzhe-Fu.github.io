@@ -17,26 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Hi!** I am currently a PhD student in the Department of Computer Science of [Duke University](https://duke.edu/), and a member of [Computational Evolutionary Intelligence (CEI) Lab](https://cei.pratt.duke.edu/) under the supervision of [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/) and [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen). Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **algorithm-hardware co-design** for efficient ML/AI. Please don't hesitate to reach out if you have any questions or interests🍀.
+**Hi!** I am currently a PhD student in the Department of Computer Science of [Duke University](https://duke.edu/), and a member of [Computational Evolutionary Intelligence (CEI) Lab](https://cei.pratt.duke.edu/) under the supervision of [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/) and [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen). 
+
+Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **algorithm-hardware co-design** for efficient ML/AI. Please don't hesitate to reach out if you have any questions or interests🍀.
 
 **Publications Overview:** (Bold indicates first-author work)
 - Computer Architecture & Integrated Circuit: **[HPCA'26](https://github.com/Yuzhe-Fu/FractalCloud)**, **[TCSVT'24](../papers/TCSVT.pdf)**, **[TCAS-II'24](../papers/TCAS-II.pdf)**, ISCA'26, [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
-- Efficient ML/AI Algorithms: **[DAC'26](https://arxiv.org/abs/2604.17720)**, **[ICME'25](https://speechprune.github.io/)**, [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
+- Efficient ML Algorithms: **[DAC'26](https://arxiv.org/abs/2604.17720)**, **[ICME'25](https://speechprune.github.io/)**, [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
 - Survey: [AAAI-SSS'25](https://arxiv.org/pdf/2502.15816) (Best paper award)
 - Under Review: **CSUR'26**
 
 E-mail: yuzhe.fu@duke.edu
 
 
-
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
  
-# 📖 Educations
+<!-- # 📖 Educations
 - *2024.08 - Present*, PhD student in the department of Computer Science, Duke University.
 - *2021.09 - 2024.07*, Master of Science, Peking University.
 - *2019.08 - 2019.12*, Global Access Program, University of California, Berkeley. 
-- *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology.
+- *2017.09 - 2021.06*, Bachelor of Engineering, Southern University of Science and Technology. -->
+
 
 # 🔥 News
 - *2026.03*: &nbsp;(ISCA'26) Two papers have been accepted by ISCA 26! Congrats!
@@ -56,12 +58,16 @@ E-mail: yuzhe.fu@duke.edu
 - *2021*: &nbsp;(TCAS-I'21)  "[Stereo-depth processor](https://ieeexplore.ieee.org/abstract/document/9505253)" has been accepted by TCAS-I (JCR-Q1)!
 - **Bold**: Main paper. Others: Collaborative papers.
 
+# 💻 Internships
+- *2026.05 - 2026.08*, Research Intern, Siemens, USA.
+
+
 # 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC'26</div><img src='images/FlashFPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching
+[FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching](http://arxiv.org/abs/2604.17720)
 
 **<u>Yuzhe Fu</u>**, H. Ye, C. Guo, J. Zhang, Q. Wang, Y. Lin, C. Zhou, Hai "Helen" Li, Yiran Chen.
 
@@ -193,7 +199,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 # 💻 Academic Service
 - Conference: HPCA-AE'26, AAAI'26, ICME'26,'25, AICAS'25,'23, AVSS'25.
 - Journal: TCSVT'24, ELL'25,'24.
-- Help to review: ISCA'26,'25, MICRO'25, HPCA'26, DAC'26.
+- Help to review: ASPLOS'26, ISCA'26,'25, MICRO'26,'25, HPCA'26, DAC'26.
 
 <!-- 
 - -Association for the Advancement of Artificial Intelligence (2026)
@@ -207,6 +213,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
  
 # 💬 Teaching Assistant
 - CS372 Introduction to Applied Machine Learning (25 Fall)
+
 
 # 🍀 Tape Out
 - An energy-efficient pipelined and configurable 3D point cloud-based neural network accelerator is being designed in TSMC 28-nm HPC technology with an area of 2.0 mm×1.5 mm and is taped out in July 2023.

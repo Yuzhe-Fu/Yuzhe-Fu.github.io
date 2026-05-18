@@ -43,7 +43,7 @@ E-mail: yuzhe.fu@duke.edu
 # 🔥 News
 - *2026.03*: &nbsp;(ISCA'26) Two papers have been accepted by ISCA 26! Congrats!
 - *2026.02*: &nbsp;(**DAC'26**) [FlashFPS](https://arxiv.org/abs/2604.17720) has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
-- *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://openreview.net/pdf?id=CezA1eLa1Y) has been accepted by ICLR 26! Congrats!
+- *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://iclr.cc/virtual/2026/poster/10010837) has been accepted by ICLR 26! Congrats!
 - *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! [Codes](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
 - *2025.09*: &nbsp;(NeurIPS'26) [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main)![GitHub stars](https://img.shields.io/github/stars/wangqinsi1/GAINRL?style=social) and [KVCOMM](https://arxiv.org/abs/2510.12872)![GitHub stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social) have been accepted by NeurIPS 26! Congrats!
 - *2025.06*: &nbsp;(PhD Journey) Finish my Reasearch Initial Project Defense ✅, which is the first milestone in my PhD journey!
@@ -173,7 +173,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 # 📝 Collaborative Publications 
 
-<p markdown="1"><span class="badge-inline">ICLR'26</span> [IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction](https://openreview.net/pdf?id=CezA1eLa1Y). Keyu Fang, C. Zhou, **<u>Yuzhe Fu</u>**, Hai Helen Li, Yiran Chen. 2026, *International Conference on Learning Representations (ICLR)* [[pdf](https://openreview.net/pdf?id=CezA1eLa1Y)]</p>
+<p markdown="1"><span class="badge-inline">ICLR'26</span> [IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction](https://iclr.cc/virtual/2026/poster/10010837). Keyu Fang, C. Zhou, **<u>Yuzhe Fu</u>**, Hai Helen Li, Yiran Chen. 2026, *International Conference on Learning Representations (ICLR)* [[pdf](https://iclr.cc/virtual/2026/poster/10010837)]</p>
 
 <p markdown="1"><span class="badge-inline">NeurIPS'26</span> [Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281). Qinsi Wang, J. Ke, H. Ye, Y. Liu, **<u>Yuzhe Fu</u>**, J. Zhang, K. Keutzer, C. Xu, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2506.02281)], [[Codes](https://github.com/wangqinsi1/GAINRL/tree/main)] ![GitHub stars](https://img.shields.io/github/stars/wangqinsi1/GAINRL?style=social)</p>
 

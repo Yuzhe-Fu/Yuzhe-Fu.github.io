@@ -41,7 +41,7 @@ E-mail: yuzhe.fu@duke.edu
 
 # 🔥 News
 - *2026.06*: &nbsp;(**CSUR'26**) One paper has been accepted by CSUR 26! Cheers!
-- *2026.03*: &nbsp;(ISCA'26) [EVA](https://arxiv.org/abs/2605.24144) and one more paper have been accepted by ISCA 26! Congrats!
+- *2026.03*: &nbsp;(ISCA'26) [EVA](https://arxiv.org/abs/2605.24144) and [OASIS](https://arxiv.org/abs/2507.23035) have been accepted by ISCA 26! Congrats!
 - *2026.02*: &nbsp;(**DAC'26**) [FlashFPS](https://arxiv.org/abs/2604.17720) has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://iclr.cc/virtual/2026/poster/10010837) has been accepted by ICLR 26! Congrats!
 - *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! [Codes](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
@@ -174,6 +174,8 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 # 📝 Collaborative Publications 
 
 <p markdown="1"><span class="badge-inline">ISCA'26</span> [EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture](https://arxiv.org/abs/2605.24144). Bowen Duan, C. Guo, C. Wei, H. Shan, **<u>Yuzhe Fu</u>**, X. Chen, Y. Xu, Z. Zhang, C. Zhou, Hai Li, Yiran Chen. 2026, *International Symposium on Computer Architecture (ISCA)* [[pdf](https://arxiv.org/abs/2605.24144)], [[Codes](https://github.com/dbw6/Eva)] ![GitHub stars](https://img.shields.io/github/stars/dbw6/Eva?style=social)</p> 
+
+<p markdown="1"><span class="badge-inline">ISCA'26</span> [OASIS: Outlier-Aware LUT-Based GEMM with Dual-Side Quantization for LLM Inference Acceleration](https://arxiv.org/abs/2507.23035). Xueying Wu, B. Zhou, Z. Gao, **<u>Yuzhe Fu</u>**, Q. Zheng, Y. He, Hai Li. 2026, *International Symposium on Computer Architecture (ISCA)* [[pdf](https://arxiv.org/abs/2507.23035)]</p> 
 
 <p markdown="1"><span class="badge-inline">GLSVLSI'26</span> [Frame Skipping Architecture for Video-Language Model Acceleration](https://dl.acm.org/doi/full/10.1145/3787109.3816385). Haoxuan Shan, C. Wei, C. Guo, **<u>Yuzhe Fu</u>**, T. Liang, Hai Li, Yiran Chen. 2026, *IEEE/ACM Great Lakes Symposium on VLSI (GLSVLSI)* [[pdf](https://dl.acm.org/doi/full/10.1145/3787109.3816385)]</p> 
 

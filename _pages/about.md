@@ -65,7 +65,7 @@ E-mail: yuzhe.fu@duke.edu
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC'26</div><img src='images/FlashFPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC'26</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative AI at the Edge: A Comprehensive Survey of Architectures, Hardware and Applications](https://dl.acm.org/doi/10.1145/3829079)

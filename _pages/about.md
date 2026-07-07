@@ -24,7 +24,7 @@ Before joining Duke University, I received my M.S. degree from [Peking Universit
 **Publications Overview:** (Bold indicates first-author work)
 - Computer Architecture & Integrated Circuit: **[HPCA'26](https://github.com/Yuzhe-Fu/FractalCloud)**, **[TCSVT'24](../papers/TCSVT.pdf)**, **[TCAS-II'24](../papers/TCAS-II.pdf)**, [ISCA'26](https://arxiv.org/abs/2605.24144), [GLSVLSI'26](https://dl.acm.org/doi/full/10.1145/3787109.3816385), [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
 - Efficient ML Algorithms: **[DAC'26](https://arxiv.org/abs/2604.17720)**, **[ICME'25](https://speechprune.github.io/)**, [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
-- Survey: **CSUR'26** (accepted), [AAAI-SSS'25](https://arxiv.org/pdf/2502.15816) (Best paper award)
+- Survey: [**CSUR'26**](https://dl.acm.org/doi/10.1145/3829079), [AAAI-SSS'25](https://arxiv.org/pdf/2502.15816) (Best paper award)
 
 E-mail: yuzhe.fu@duke.edu
 
@@ -40,7 +40,7 @@ E-mail: yuzhe.fu@duke.edu
 
 
 # 🔥 News
-- *2026.06*: &nbsp;(**CSUR'26**) One paper has been accepted by CSUR 26! Cheers!
+- *2026.06*: &nbsp;(**CSUR'26**) One paper has been accepted by [CSUR 26](https://dl.acm.org/doi/10.1145/3829079)! Cheers!
 - *2026.03*: &nbsp;(ISCA'26) [EVA](https://arxiv.org/abs/2605.24144) and [OASIS](https://arxiv.org/abs/2507.23035) have been accepted by ISCA 26! Congrats!
 - *2026.02*: &nbsp;(**DAC'26**) [FlashFPS](https://arxiv.org/abs/2604.17720) has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://iclr.cc/virtual/2026/poster/10010837) has been accepted by ICLR 26! Congrats!
@@ -63,6 +63,27 @@ E-mail: yuzhe.fu@duke.edu
 
 
 # 📝 Selected Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC'26</div><img src='images/FlashFPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generative AI at the Edge: A Comprehensive Survey of Architectures, Hardware and Applications](https://dl.acm.org/doi/10.1145/3829079)
+
+Mozhgan Navardi#, **<u>Yuzhe Fu</u>**#, Yueqian Lin#, Hai Li, Yiran Chen, Tinoosh Mohsenin.
+
+**2026**, *ACM Computing Surveys (CSUR'26)*
+
+[[pdf](https://dl.acm.org/doi/10.1145/3829079)]
+
+<details>
+<summary>Abstract</summary>
+Generative Artificial Intelligence (GenAI) leverages generative models, including Diffusion models and Foundation Models (FMs) such as Large Language Models (LLMs), to generate new data. GenAI has attracted growing attention as it enables applications such as text generation, image synthesis, and multimodal reasoning. However, deploying such GenAI models on resource-constrained edge devices poses key challenges. Edge devices typically have limited computational power and strict energy budgets. They also face the memory-wall problem, where the cost of moving data between memory and compute units exceeds the cost of computation itself. This survey provides a comprehensive overview of techniques that enable GenAI deployment at the edge, covering software optimizations, hardware innovations, and system-level frameworks. While all three categories are discussed, particular emphasis is given to hardware-focused approaches. We review recent hardware studies and classify them into three main levels: computation, memory, and scheduling, with eight finer-grained subcategories that capture the mainstream hardware techniques. Many of these are hardware–software co-design strategies that align GenAI workloads with edge resource constraints. By synthesizing state-of-the-art solutions and identifying open challenges, this survey outlines a roadmap for building efficient GenAI systems at the edge.
+</details>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC'26</div><img src='images/FlashFPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

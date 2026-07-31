@@ -40,6 +40,7 @@ E-mail: yuzhe.fu@duke.edu
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🏆 Honored to receive the DAC Young Fellow Award!
 - *2026.06*: &nbsp;(**CSUR'26**) One paper has been accepted by [CSUR 26](https://dl.acm.org/doi/10.1145/3829079)! Cheers!
 - *2026.03*: &nbsp;(ISCA'26) [EVA](https://arxiv.org/abs/2605.24144) and [OASIS](https://arxiv.org/abs/2507.23035) have been accepted by ISCA 26! Congrats!
 - *2026.02*: &nbsp;(**DAC'26**) [FlashFPS](https://arxiv.org/abs/2604.17720) has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
@@ -248,6 +249,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 - A 4.5 TOPS/W sparse 3D-CNN accelerator for real-time 3D understanding was fabricated in UMC 55-nm low-power CMOS technology with an area of 4.2 mm×3.6 mm in August 2020.
 
 # 🎖 Honors and Awards
+- *2026* DAC Young Fellow.
 - *2025* Best Paper Award (2nd Place) in AAAI Spring Symposium Series.
 - *2021* Excellent Graduate Award, Southern University of Science and Technology
 - *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 

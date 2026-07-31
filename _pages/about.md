@@ -19,7 +19,7 @@ redirect_from:
 
 **Hi!** I am currently a PhD student in the Department of Computer Science of [Duke University](https://duke.edu/), and a member of [Computational Evolutionary Intelligence (CEI) Lab](https://cei.pratt.duke.edu/) under the supervision of [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/) and [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen). 
 
-Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **algorithm-hardware co-design** for efficient ML/AI. Please don't hesitate to reach out if you have any questions or interests🍀.
+Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **AI accelerator** and efficient ML/AI (Diffusion models, LLM inference, etc.). Please don't hesitate to reach out if you have any questions or interests🍀.
 
 **Publications Overview:** (Bold indicates first-author work)
 - Computer Architecture & Integrated Circuit: **[HPCA'26](https://github.com/Yuzhe-Fu/FractalCloud)**, **[TCSVT'24](../papers/TCSVT.pdf)**, **[TCAS-II'24](../papers/TCAS-II.pdf)**, [ISCA'26](https://arxiv.org/abs/2605.24144), [GLSVLSI'26](https://dl.acm.org/doi/full/10.1145/3787109.3816385), [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
@@ -42,7 +42,7 @@ E-mail: yuzhe.fu@duke.edu
 # 🔥 News
 - *2026.07*: &nbsp;🏆 Honored to receive the DAC Young Fellow Award!
 - *2026.06*: &nbsp;(**CSUR'26**) One paper has been accepted by [CSUR 26](https://dl.acm.org/doi/10.1145/3829079)! Cheers!
-- *2026.03*: &nbsp;(ISCA'26) [EVA](https://arxiv.org/abs/2605.24144) and [OASIS](https://arxiv.org/abs/2507.23035) have been accepted by ISCA 26! Congrats!
+- *2026.03*: &nbsp;(ISCA'26) [EVA](https://arxiv.org/abs/2605.24144) ([Codes](https://github.com/dbw6/Eva)) ![GitHub stars](https://img.shields.io/github/stars/dbw6/Eva?style=social), and [OASIS](https://arxiv.org/abs/2507.23035) have been accepted by ISCA 26! Congrats!
 - *2026.02*: &nbsp;(**DAC'26**) [FlashFPS](https://arxiv.org/abs/2604.17720) has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://iclr.cc/virtual/2026/poster/10010837) has been accepted by ICLR 26! Congrats!
 - *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! [Codes](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
@@ -251,10 +251,9 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 # 🎖 Honors and Awards
 - *2026* DAC Young Fellow.
 - *2025* Best Paper Award (2nd Place) in AAAI Spring Symposium Series.
-- *2021* Excellent Graduate Award, Southern University of Science and Technology
 - *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
 - *2020* **National Scholarship**, Ministry of Education of the PRC (The highest scholarship for Chinese undergraduates)
-
+<!-- - *2021* Excellent Graduate Award, Southern University of Science and Technology -->
 
 # ![0D4D876E](https://github.com/Yuzhe-Fu/Yuzhe-Fu.github.io/assets/54790390/34cd68b3-1087-400d-9c3a-1ea97768f74c) About Me: 
 - I am a easy-going and spirited individual with a passion for life. My enthusiasm not only drives my own life but also positively influences those around me.

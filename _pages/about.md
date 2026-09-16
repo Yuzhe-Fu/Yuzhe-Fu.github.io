@@ -40,7 +40,7 @@ E-mail: yuzhe.fu@duke.edu
 
 
 # 🔥 News
-- *2026.08*: &nbsp;(**ASPLOS'27**) [Vortex](https://arxiv.org/pdf/2609.03003) has been accepted by ASPLOS 27! Congrats!
+- *2026.08*: &nbsp;(ASPLOS'27) [Vortex](https://arxiv.org/html/2609.12208) has been accepted by ASPLOS 27! Congrats!
 - *2026.07*: &nbsp;🏆 Honored to receive the DAC Young Fellow Award!
 - *2026.06*: &nbsp;(**CSUR'26**) One paper has been accepted by [CSUR 26](https://dl.acm.org/doi/10.1145/3829079)! Cheers!
 - *2026.03*: &nbsp;(ISCA'26) [EVA](https://ieeexplore.ieee.org/document/11617907) ([Codes](https://github.com/dbw6/Eva)) ![GitHub stars](https://img.shields.io/github/stars/dbw6/Eva?style=social), and [OASIS](https://ieeexplore.ieee.org/document/11617941) have been accepted by ISCA 26! Congrats!
@@ -196,8 +196,8 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 # 📝 Collaborative Publications 
 
-<p markdown="1"><span class="badge-inline">ASPLOS'27</span> [Vortex: Bridging Extreme Compression and Efficient LLM Inference](https://arxiv.org/pdf/2609.03003). Haoxuan Shan, Cong Guo*, Bowen Duan, Chiyue Wei, Feng Cheng, **<u>Yuzhe Fu</u>**, Yintao He, Hai “Helen” Li, Yiran Chen.
-**2027**, *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)* [[pdf](https://arxiv.org/html/2609.12208v1)]</p>
+<p markdown="1"><span class="badge-inline">ASPLOS'27</span> [Vortex: Bridging Extreme Compression and Efficient LLM Inference](https://arxiv.org/html/2609.12208). Haoxuan Shan, C. Guo, B. Duan, C. Wei, F. Cheng, **<u>Yuzhe Fu</u>**, Y. He, H. "Helen" Li, Yiran Chen.
+**2027**, *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)* [[pdf](https://arxiv.org/html/2609.12208)]</p>
 
 <p markdown="1"><span class="badge-inline">ISCA'26</span> [EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture](https://ieeexplore.ieee.org/document/11617907). Bowen Duan, C. Guo, C. Wei, H. Shan, **<u>Yuzhe Fu</u>**, X. Chen, Y. Xu, Z. Zhang, C. Zhou, Hai Li, Yiran Chen. 2026, *International Symposium on Computer Architecture (ISCA)* [[pdf](https://ieeexplore.ieee.org/document/11617907)], [[Codes](https://github.com/dbw6/Eva)] ![GitHub stars](https://img.shields.io/github/stars/dbw6/Eva?style=social)</p> 
 

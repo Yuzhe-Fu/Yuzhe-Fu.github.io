@@ -40,6 +40,7 @@ E-mail: yuzhe.fu@duke.edu
 
 
 # 🔥 News
+- *2026.08*: &nbsp;(**ASPLOS'27**) [Vortex](https://arxiv.org/pdf/2609.03003) has been accepted by ASPLOS 27! Congrats!
 - *2026.07*: &nbsp;🏆 Honored to receive the DAC Young Fellow Award!
 - *2026.06*: &nbsp;(**CSUR'26**) One paper has been accepted by [CSUR 26](https://dl.acm.org/doi/10.1145/3829079)! Cheers!
 - *2026.03*: &nbsp;(ISCA'26) [EVA](https://ieeexplore.ieee.org/document/11617907) ([Codes](https://github.com/dbw6/Eva)) ![GitHub stars](https://img.shields.io/github/stars/dbw6/Eva?style=social), and [OASIS](https://ieeexplore.ieee.org/document/11617941) have been accepted by ISCA 26! Congrats!

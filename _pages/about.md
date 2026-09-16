@@ -22,7 +22,7 @@ redirect_from:
 Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **AI accelerator** and efficient ML/AI (Diffusion models, LLM inference, Point Cloud processing, etc.). Please don't hesitate to reach out if you have any questions or interests🍀.
 
 **Publications Overview:** (Bold indicates first-author work)
-- Computer Architecture & Integrated Circuit: **[HPCA'26](https://ieeexplore.ieee.org/document/11408589)**, **[TCSVT'24](https://ieeexplore.ieee.org/document/10495359)**, **[TCAS-II'24](https://ieeexplore.ieee.org/document/10430381)**, [ISCA'26](https://arxiv.org/abs/2605.24144), [GLSVLSI'26](https://dl.acm.org/doi/full/10.1145/3787109.3816385), [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
+- Computer Architecture & Integrated Circuit: **[HPCA'26](https://ieeexplore.ieee.org/document/11408589)**, **[TCSVT'24](https://ieeexplore.ieee.org/document/10495359)**, **[TCAS-II'24](https://ieeexplore.ieee.org/document/10430381)**, [ASPLOS'27](https://arxiv.org/pdf/2609.03003), [ISCA'26](https://ieeexplore.ieee.org/document/11617907), [ISCA'26](https://ieeexplore.ieee.org/document/11617941), [GLSVLSI'26](https://dl.acm.org/doi/full/10.1145/3787109.3816385), [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
 - Efficient ML/AI: **[DAC'26](https://arxiv.org/abs/2604.17720)**, **[ICME'25](https://ieeexplore.ieee.org/document/11209113)**, [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
 - Survey: [**CSUR'26**](https://dl.acm.org/doi/10.1145/3829079), [AAAI-SSS'25](https://arxiv.org/pdf/2502.15816) (Best paper award)
 
@@ -93,11 +93,11 @@ Generative Artificial Intelligence (GenAI) leverages generative models, includin
 
 **<u>Yuzhe Fu</u>**, H. Ye, C. Guo, J. Zhang, Q. Wang, Y. Lin, C. Zhou, Hai "Helen" Li, Yiran Chen.
 
-**2026**, *IEEE/ACM Design Automation Conference (DAC'26)* (Accepted)
+**2026**, *IEEE/ACM Design Automation Conference (DAC'26)*
 
-Acceptance Rate: 22.3%
+Acceptance Rate: 22.3% 
 
-[[pdf](http://arxiv.org/abs/2604.17720)], [[code](https://github.com/Yuzhe-Fu/FlashFPS)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
+[[pdf](http://arxiv.org/abs/2604.17720)], [[slides](../papers/FlashFPS-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FlashFPS)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 
 <!-- [[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social) -->
 <details>
@@ -194,6 +194,9 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 
 # 📝 Collaborative Publications 
+
+<p markdown="1"><span class="badge-inline">ASPLOS'27</span> [Vortex: Bridging Extreme Compression and Efficient LLM Inference](https://arxiv.org/pdf/2609.03003). Haoxuan Shan, Cong Guo*, Bowen Duan, Chiyue Wei, Feng Cheng, **<u>Yuzhe Fu</u>**, Yintao He, Hai “Helen” Li, Yiran Chen.
+**2027**, *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)* [[pdf](https://arxiv.org/html/2609.12208v1)]</p>
 
 <p markdown="1"><span class="badge-inline">ISCA'26</span> [EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture](https://ieeexplore.ieee.org/document/11617907). Bowen Duan, C. Guo, C. Wei, H. Shan, **<u>Yuzhe Fu</u>**, X. Chen, Y. Xu, Z. Zhang, C. Zhou, Hai Li, Yiran Chen. 2026, *International Symposium on Computer Architecture (ISCA)* [[pdf](https://ieeexplore.ieee.org/document/11617907)], [[Codes](https://github.com/dbw6/Eva)] ![GitHub stars](https://img.shields.io/github/stars/dbw6/Eva?style=social)</p> 
 

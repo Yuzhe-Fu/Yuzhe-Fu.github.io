@@ -128,3 +128,31 @@ li .badge-inline {
 .paper-box.no-image .paper-box-image {
   display: none !important;
 }
+
+.news-fold ul {
+  margin-bottom: 0.35em;
+}
+
+.js .news-fold:not(.is-open) li:nth-child(n + 11) {
+  display: none;
+}
+
+.news-toggle {
+  display: none;
+  margin: 0 0 1em;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #00369f;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.news-toggle:not([hidden]) {
+  display: inline-block;
+}
+
+.news-toggle:hover {
+  text-decoration: underline;
+}

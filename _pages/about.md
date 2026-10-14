@@ -42,7 +42,10 @@ E-mail: yuzhe.fu@duke.edu
 
 
 # 🔥 News
-- *2026.10*: &nbsp;🎤 Gave a talk at Siemens, New Jersey.
+
+<div class="news-fold" markdown="1">
+
+- *2026.10*: &nbsp;🎤 Gave a talk at Siemens RPD, New Jersey.
 - *2026.10*: &nbsp; 🏛️ Serving as the TPC Member for DAC 2027!
 - *2026.08*: &nbsp;(ASPLOS'27) [Vortex](https://arxiv.org/html/2609.12208) has been accepted by ASPLOS 27! Congrats!
 - *2026.07*: &nbsp;🏆 Honored to receive the DAC Young Fellow Award!
@@ -63,7 +66,11 @@ E-mail: yuzhe.fu@duke.edu
 - *2023.08*: &nbsp;(IOTJ'23) "[Sagitta](https://ieeexplore.ieee.org/document/10224248)" has been accepted by IEEE IOTJ (JCR-Q1)!
 - *2023.07*: &nbsp;(ICCAD'23) "[PNN Accelerator](https://ieeexplore.ieee.org/document/10323704)" has been accepted by ICCAD 23!
 - *2021*: &nbsp;(TCAS-I'21)  "[Stereo-depth processor](https://ieeexplore.ieee.org/abstract/document/9505253)" has been accepted by TCAS-I (JCR-Q1)!
-- **Bold**: Main paper. Others: Collaborative papers.
+
+</div>
+<button type="button" class="news-toggle" hidden aria-expanded="false">Read more</button>
+
+**Bold**: Main paper. Others: Collaborative papers.
 
 # 💻 Internships
 - *2026.05 - 2026.08*, Research Intern, Siemens, USA.
@@ -216,7 +223,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 <p markdown="1"><span class="badge-inline">ICLR'26</span> [IncVGGT: Incremental VGGT for Memory-Bounded Long-Range 3D Reconstruction](https://iclr.cc/virtual/2026/poster/10010837). Keyu Fang, C. Zhou, **<u>Yuzhe Fu</u>**, Hai Helen Li, Yiran Chen. 2026, *International Conference on Learning Representations (ICLR)* [[pdf](https://iclr.cc/virtual/2026/poster/10010837)]</p>
 
-<p markdown="1"><span class="badge-inline">NeurIPS'26</span> [Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281). Qinsi Wang, J. Ke, H. Ye, Y. Liu, **<u>Yuzhe Fu</u>**, J. Zhang, K. Keutzer, C. Xu, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2506.02281)], [[Codes](https://github.com/wangqinsi1/GAINRL/tree/main)] ![GitHub stars](https://img.shields.io/github/stars/wangqinsi1/GAINRL?style=social)</p>
+<p markdown="1"><span class="badge-inline">NeurIPS'26 Spotlight 🏆</span> [Angles Don't Lie: Unlocking Training-Efficient RL Through the Model's Own Signals](https://arxiv.org/pdf/2506.02281). Qinsi Wang, J. Ke, H. Ye, Y. Liu, **<u>Yuzhe Fu</u>**, J. Zhang, K. Keutzer, C. Xu, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2506.02281)], [[Codes](https://github.com/wangqinsi1/GAINRL/tree/main)] ![GitHub stars](https://img.shields.io/github/stars/wangqinsi1/GAINRL?style=social)</p>
 
 <p markdown="1"><span class="badge-inline">NeurIPS'26</span> [KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/pdf/2510.12872). Hancheng Ye, Z. Gao, M. Ma, Q. Wang, **<u>Yuzhe Fu</u>**, M. Chung, Y. Lin, Z. Liu, J. Zhang, D. Zhuo, and Yiran Chen. 2026, *Conference on Neural Information Processing Systems (NeurIPS)* [[pdf](https://arxiv.org/pdf/2510.12872)], [[Codes](https://github.com/FastMAS/KVCOMM)] ![GitHub stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social)</p>
 
@@ -258,7 +265,7 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 
 # 🎤 Invited Talks
-- *2026.10*, Siemens, New Jersey.
+- *2026.10*, Siemens Research & Predevelopment (RPD), New Jersey.
 
 
 <!-- # 💻 Academic Service

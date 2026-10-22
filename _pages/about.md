@@ -25,7 +25,7 @@ Please don't hesitate to reach out if you have any questions or interests🍀.
 
 **Publications Overview:** (Bold indicates first-author work)
 - Computer Architecture & Integrated Circuit: **[HPCA'26](https://ieeexplore.ieee.org/document/11408589)**, **[TCSVT'24](https://ieeexplore.ieee.org/document/10495359)**, **[TCAS-II'24](https://ieeexplore.ieee.org/document/10430381)**, [ASPLOS'27](https://arxiv.org/pdf/2609.03003), [ISCA'26](https://ieeexplore.ieee.org/document/11617907), [ISCA'26](https://ieeexplore.ieee.org/document/11617941), [GLSVLSI'26](https://dl.acm.org/doi/full/10.1145/3787109.3816385), [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
-- Efficient ML/AI: **[DAC'26](https://arxiv.org/abs/2604.17720)**, **[ICME'25](https://ieeexplore.ieee.org/document/11209113)**, [ICML'26](https://zishan-shao.github.io/decodeshare/assets/DecodeShareICML2026.pdf), [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
+- Efficient ML/AI: **[DAC'26](https://dl.acm.org/doi/10.1145/3770743.3803907)**, **[ICME'25](https://ieeexplore.ieee.org/document/11209113)**, [ICML'26](https://zishan-shao.github.io/decodeshare/assets/DecodeShareICML2026.pdf), [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
 - Survey: [**CSUR'26**](https://dl.acm.org/doi/10.1145/3829079), [AAAI-SSS'25](https://arxiv.org/pdf/2502.15816) (Best paper award)
 
 E-mail: yuzhe.fu@duke.edu
@@ -52,7 +52,7 @@ E-mail: yuzhe.fu@duke.edu
 - *2026.06*: &nbsp;(ICML'26) [DecodeShare](https://zishan-shao.github.io/decodeshare/assets/DecodeShareICML2026.pdf) ([Codes](https://github.com/Zishan-Shao/decodeshare)) ![GitHub stars](https://img.shields.io/github/stars/Zishan-Shao/decodeshare?style=social) has been accepted by ICML 26 as a Spotlight! Congrats!
 - *2026.06*: &nbsp;(**CSUR'26**) One paper has been accepted by [CSUR 26](https://dl.acm.org/doi/10.1145/3829079)! Cheers!
 - *2026.03*: &nbsp;(ISCA'26) [EVA](https://ieeexplore.ieee.org/document/11617907) ([Codes](https://github.com/dbw6/Eva)) ![GitHub stars](https://img.shields.io/github/stars/dbw6/Eva?style=social), and [OASIS](https://ieeexplore.ieee.org/document/11617941) have been accepted by ISCA 26! Congrats!
-- *2026.02*: &nbsp;(**DAC'26**) [FlashFPS](https://arxiv.org/abs/2604.17720) has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
+- *2026.02*: &nbsp;(**DAC'26**) [FlashFPS](https://dl.acm.org/doi/10.1145/3770743.3803907) has been accepted by DAC 26! [Codes](https://github.com/Yuzhe-Fu/FlashFPS). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 - *2026.01*: &nbsp;(ICLR'26) [IncVGGT](https://iclr.cc/virtual/2026/poster/10010837) has been accepted by ICLR 26! Congrats!
 - *2025.11*: &nbsp;(**HPCA'26**) [FractalCloud](https://ieeexplore.ieee.org/document/11408589) has been accepted by HPCA 26! [Codes](https://github.com/Yuzhe-Fu/FractalCloud). ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social)
 - *2025.09*: &nbsp;(NeurIPS'26) [Angles Don't Lie](https://github.com/wangqinsi1/GAINRL/tree/main)![GitHub stars](https://img.shields.io/github/stars/wangqinsi1/GAINRL?style=social) and [KVCOMM](https://arxiv.org/abs/2510.12872)![GitHub stars](https://img.shields.io/github/stars/FastMAS/KVCOMM?style=social) have been accepted by NeurIPS 26! Congrats!
@@ -102,7 +102,7 @@ Generative Artificial Intelligence (GenAI) leverages generative models, includin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC'26</div><img src='images/FlashFPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching](http://arxiv.org/abs/2604.17720)
+[FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching](https://dl.acm.org/doi/10.1145/3770743.3803907)
 
 **<u>Yuzhe Fu</u>**, H. Ye, C. Guo, J. Zhang, Q. Wang, Y. Lin, C. Zhou, Hai "Helen" Li, Yiran Chen.
 
@@ -110,7 +110,7 @@ Generative Artificial Intelligence (GenAI) leverages generative models, includin
 
 Acceptance Rate: 22.3% 
 
-[[pdf](http://arxiv.org/abs/2604.17720)], [[slides](../papers/FlashFPS-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FlashFPS)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
+[[pdf](https://dl.acm.org/doi/10.1145/3770743.3803907)], [[slides](../papers/FlashFPS-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FlashFPS)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FlashFPS?style=social)
 
 <!-- [[pdf](https://arxiv.org/pdf/2511.07665)], [[slides](../papers/FractalCloud-Slides.pdf)], [[code](https://github.com/Yuzhe-Fu/FractalCloud)] ![GitHub stars](https://img.shields.io/github/stars/Yuzhe-Fu/FractalCloud?style=social) -->
 <details>

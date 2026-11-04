@@ -19,7 +19,7 @@ redirect_from:
 
 **Hi!** I am currently a PhD student in the Department of Computer Science of [Duke University](https://duke.edu/), and a member of [Computational Evolutionary Intelligence (CEI) Lab](https://cei.pratt.duke.edu/) under the supervision of [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/) and [Prof. Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen). 
 
-Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on **AI accelerators**, computer architecture, and efficient machine learning systems, including Diffusion models, LLM inference, Point Cloud processing, etc..
+Before joining Duke University, I received my M.S. degree from [Peking University (北京大学)](https://english.pku.edu.cn/) in 2024, under the supervision of [Prof. Hailong Jiao](https://www.ece.pku.edu.cn/en/info/1095/1323.htm). I obtained my BEng degree from [Southern University of Science and Technology (南方科技大学)](https://www.sustech.edu.cn/en/) in 2021, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). For now, my research realm focuses on software–hardware co-design and AI accelerators for emerging AI workloads, including Diffusion models, LLM inference, Point Cloud processing, etc..
 Please don't hesitate to reach out if you have any questions or interests🍀.
 
 
@@ -44,7 +44,7 @@ E-mail: yuzhe.fu@duke.edu
 # 🔥 News
 
 <div class="news-fold" markdown="1">
-
+- *2026.11*: &nbsp;(HPCA'27)One paper has been accepted by HPCA 27. Congrats!
 - *2026.10*: &nbsp;🎤 Gave a talk at Siemens RPD, New Jersey.
 - *2026.10*: &nbsp; 🏛️ Serving as the TPC Member for DAC 2027!
 - *2026.08*: &nbsp;(ASPLOS'27) [Vortex](https://arxiv.org/html/2609.12208) has been accepted by ASPLOS 27! Congrats!
@@ -247,11 +247,13 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 # 👔 Academic Service
 
 **Journal Reviewer**
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-- Electronics Letters (ELL)
+- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Communications Magazine
+- Electronics Letters
 
 **Conference Service**
 - Technical Program Committee (TPC) Member, DAC 2027
+- Reviewer, ISCAS 2027
 - Reviewer, ASP-DAC 2027
 - Artifact Evaluation Reviewer, MICRO 2027
 - Artifact Evaluation Reviewer, HPCA 2026

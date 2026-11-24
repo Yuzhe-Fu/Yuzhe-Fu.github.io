@@ -24,7 +24,7 @@ Please don't hesitate to reach out if you have any questions or interests🍀.
 
 
 **Publications Overview:** (Bold indicates first-author work)
-- Computer Architecture & Integrated Circuit: **[HPCA'26](https://ieeexplore.ieee.org/document/11408589)**, **[TCSVT'24](https://ieeexplore.ieee.org/document/10495359)**, **[TCAS-II'24](https://ieeexplore.ieee.org/document/10430381)**, [ASPLOS'27](https://arxiv.org/pdf/2609.03003), [ISCA'26](https://ieeexplore.ieee.org/document/11617907), [ISCA'26](https://ieeexplore.ieee.org/document/11617941), [GLSVLSI'26](https://dl.acm.org/doi/full/10.1145/3787109.3816385), [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
+- Computer Architecture & Integrated Circuit: **[HPCA'26](https://ieeexplore.ieee.org/document/11408589)**, **[TCSVT'24](https://ieeexplore.ieee.org/document/10495359)**, **[TCAS-II'24](https://ieeexplore.ieee.org/document/10430381)**, HPCA'27, [ASPLOS'27](https://arxiv.org/pdf/2609.03003), [ISCA'26](https://ieeexplore.ieee.org/document/11617907), [ISCA'26](https://ieeexplore.ieee.org/document/11617941), [GLSVLSI'26](https://dl.acm.org/doi/full/10.1145/3787109.3816385), [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
 - Efficient ML/AI: **[DAC'26](https://dl.acm.org/doi/10.1145/3770743.3803907)**, **[ICME'25](https://ieeexplore.ieee.org/document/11209113)**, [ICML'26](https://zishan-shao.github.io/decodeshare/assets/DecodeShareICML2026.pdf), [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
 - Survey: [**CSUR'26**](https://dl.acm.org/doi/10.1145/3829079), [AAAI-SSS'25](https://arxiv.org/pdf/2502.15816) (Best paper award)
 
@@ -44,10 +44,11 @@ E-mail: yuzhe.fu@duke.edu
 # 🔥 News
 
 <div class="news-fold" markdown="1">
-- *2026.11*: &nbsp;(HPCA'27)One paper has been accepted by HPCA 27. Congrats!
+- *2026.11*: &nbsp; 🏛️ Serving as Web Chair for [SEC 2027](https://acm-ieee-sec.org/2027/).
+- *2026.11*: &nbsp;(HPCA'27) One paper has been accepted by HPCA 2027. Congrats!
 - *2026.10*: &nbsp;🎤 Gave a talk at Siemens RPD, New Jersey.
-- *2026.10*: &nbsp; 🏛️ Serving as the TPC Member for DAC 2027!
-- *2026.08*: &nbsp;(ASPLOS'27) [Vortex](https://arxiv.org/html/2609.12208) has been accepted by ASPLOS 27! Congrats!
+- *2026.10*: &nbsp; 🏛️ Serving as the TPC Member for DAC 2027.
+- *2026.08*: &nbsp;(ASPLOS'27) [Vortex](https://arxiv.org/html/2609.12208) has been accepted by ASPLOS 27! Congrats! [Codes](https://github.com/shanhx2000/Vortex)![GitHub stars](https://img.shields.io/github/stars/shanhx2000/Vortex?style=social)
 - *2026.07*: &nbsp;🏆 Honored to receive the DAC Young Fellow Award!
 - *2026.06*: &nbsp;(ICML'26) [DecodeShare](https://zishan-shao.github.io/decodeshare/assets/DecodeShareICML2026.pdf) ([Codes](https://github.com/Zishan-Shao/decodeshare)) ![GitHub stars](https://img.shields.io/github/stars/Zishan-Shao/decodeshare?style=social) has been accepted by ICML 26 as a Spotlight! Congrats!
 - *2026.06*: &nbsp;(**CSUR'26**) One paper has been accepted by [CSUR 26](https://dl.acm.org/doi/10.1145/3829079)! Cheers!
@@ -77,6 +78,25 @@ E-mail: yuzhe.fu@duke.edu
 
 
 # 📝 Selected Publications 
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Phantom: Temporal Caching for Diffusion Models](https://arxiv.org/abs/2611.06019)
+
+**<u>Yuzhe Fu</u>**, Cong Guo, Zishan Shao, Bowen Duan, Chiyue Wei, Haoxuan Shan, Ting Jiang, Hancheng Ye, Jonathan Ku, Changchun Zhou, Hai "Helen" Li, Yiran Chen
+
+**2026**
+
+[[pdf](https://dl.acm.org/doi/10.1145/3829079)]
+
+<details>
+<summary>Abstract</summary>
+Diffusion models have become the dominant paradigm for high-quality image generation, but their iterative inference across tens of timesteps incurs substantial computational overhead. Prior accelerators exploit temporal similarity in diffusion models via differential quantization or output sparsity, yet suffer from increased memory footprint, design complexity, and image degradation. In this work, we present Phantom, an algorithm–architecture co-designed accelerator built on temporal caching. We view temporal similarity as differential sparsity: between adjacent timesteps, only a small fraction of tokens (outliers) change significantly. Phantom recomputes only these outlier tokens and reuses the rest from a temporal cache. Phantom runs on standard systolic arrays with lightweight additions: a Phantom Engine at the global buffer that detects outliers and updates the cache as activations stream through, and a condensed pipeline that maps the resulting sparse updates onto dense systolic computation for FC, convolution, and attention layers. Evaluations on modern diffusion models show that Phantom achieves an average 4.0× speedup and 5.5× energy saving over GPUs and prior accelerators while preserving generation quality.
+</details>
+
+</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSUR'26</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
@@ -208,8 +228,10 @@ Changchun Zhou#, **<u>Yuzhe Fu</u>**#, Y. Ma, E. Han, Y. He, Hailong Jiao.
 
 # 📝 Collaborative Publications 
 
+<p markdown="1"><span class="badge-inline">HPCA'27</span> Duet: Harmonizing Compute and Memory Demands for LLM Decoding. Cong Guo, Xuanzeng Song, B. Duan, H. Shan, C. Wei, **<u>Yuzhe Fu</u>**, A. Aziz, Hai Li, Yiran Chen. **2027**, *IEEE International Symposium on High-Performance Computer Architecture (HPCA)*</p>
+
 <p markdown="1"><span class="badge-inline">ASPLOS'27</span> [Vortex: Bridging Extreme Compression and Efficient LLM Inference](https://arxiv.org/html/2609.12208). Haoxuan Shan, C. Guo, B. Duan, C. Wei, F. Cheng, **<u>Yuzhe Fu</u>**, Y. He, H. "Helen" Li, Yiran Chen.
-**2027**, *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)* [[pdf](https://arxiv.org/html/2609.12208)]</p>
+**2027**, *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)* [[pdf](https://arxiv.org/html/2609.12208)], [[Codes](https://github.com/shanhx2000/Vortex)] ![GitHub stars](https://img.shields.io/github/stars/shanhx2000/Vortex?style=social)</p>
 
 <p markdown="1"><span class="badge-inline">ISCA'26</span> [EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture](https://ieeexplore.ieee.org/document/11617907). Bowen Duan, C. Guo, C. Wei, H. Shan, **<u>Yuzhe Fu</u>**, X. Chen, Y. Xu, Z. Zhang, C. Zhou, Hai Li, Yiran Chen. 2026, *International Symposium on Computer Architecture (ISCA)* [[pdf](https://ieeexplore.ieee.org/document/11617907)], [[Codes](https://github.com/dbw6/Eva)] ![GitHub stars](https://img.shields.io/github/stars/dbw6/Eva?style=social)</p> 
 

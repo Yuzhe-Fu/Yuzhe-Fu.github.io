@@ -24,7 +24,7 @@ Please don't hesitate to reach out if you have any questions or interests🍀.
 
 
 **Publications Overview:** (Bold indicates first-author work)
-- Computer Architecture & Integrated Circuit: **[HPCA'26](https://ieeexplore.ieee.org/document/11408589)**, **[TCSVT'24](https://ieeexplore.ieee.org/document/10495359)**, **[TCAS-II'24](https://ieeexplore.ieee.org/document/10430381)**, HPCA'27, [ASPLOS'27](https://arxiv.org/pdf/2609.03003), [ISCA'26](https://ieeexplore.ieee.org/document/11617907), [ISCA'26](https://ieeexplore.ieee.org/document/11617941), [GLSVLSI'26](https://dl.acm.org/doi/full/10.1145/3787109.3816385), [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
+- SW/HW Co-Design & AI Accelerators: **[HPCA'26](https://ieeexplore.ieee.org/document/11408589)**, **[TCSVT'24](https://ieeexplore.ieee.org/document/10495359)**, **[TCAS-II'24](https://ieeexplore.ieee.org/document/10430381)**, HPCA'27, [ASPLOS'27](https://arxiv.org/pdf/2609.03003), [ISCA'26](https://ieeexplore.ieee.org/document/11617907), [ISCA'26](https://ieeexplore.ieee.org/document/11617941), [GLSVLSI'26](https://dl.acm.org/doi/full/10.1145/3787109.3816385), [ISSCC'25](../papers/23.4_Nebula_A_28nm_109.8TOPS_W_3D_PNN_Accelerator_Featuring_Adaptive_Partition_Multi-Skipping_and_Block-Wise_Aggregation.pdf), [ICCAD'23](../papers/ICCAD.pdf), [IOT-J'23](../papers/Sagitta_An_Energy-Efficient_Sparse_3D-CNN_Accelerator_for_Real-Time_3-D_Understanding.pdf), [TCAS-I'21](../papers/A_4.29nJ_pixel_Stereo_Depth_Coprocessor_With_Pixel_Level_Pipeline_and_Region_Optimized_Semi-Global_Matching_for_IoT_Application.pdf)
 - Efficient ML/AI: **[DAC'26](https://dl.acm.org/doi/10.1145/3770743.3803907)**, **[ICME'25](https://ieeexplore.ieee.org/document/11209113)**, [ICML'26](https://zishan-shao.github.io/decodeshare/assets/DecodeShareICML2026.pdf), [CVPR'26-Findings](https://arxiv.org/pdf/2504.10739), [ICLR'26](https://openreview.net/pdf?id=CezA1eLa1Y), [NeurIPS'26](https://github.com/wangqinsi1/GAINRL/tree/main), [NeurIPS'26](https://arxiv.org/abs/2510.12872)
 - Survey: [**CSUR'26**](https://dl.acm.org/doi/10.1145/3829079), [AAAI-SSS'25](https://arxiv.org/pdf/2502.15816) (Best paper award)
 
@@ -79,7 +79,7 @@ E-mail: yuzhe.fu@duke.edu
 
 # 📝 Selected Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/Phantom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Phantom: Temporal Caching for Diffusion Models](https://arxiv.org/abs/2611.06019)
@@ -88,7 +88,7 @@ E-mail: yuzhe.fu@duke.edu
 
 **2026**
 
-[[pdf](https://dl.acm.org/doi/10.1145/3829079)]
+[[pdf](https://arxiv.org/abs/2611.06019)]
 
 <details>
 <summary>Abstract</summary>
@@ -96,7 +96,7 @@ Diffusion models have become the dominant paradigm for high-quality image genera
 </details>
 
 </div>
-</div> -->
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSUR'26</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
